@@ -1,0 +1,327 @@
+@charset "UTF-8";
+/* header、footer など、ベースとなる部分のCSSを書く*/
+/*メディアクエリ（サンプル最後に取る）*/
+/*sp（なくても良い）*/
+@media screen and (max-width: 480px) {}
+/*tablet 768px以下*/
+@media screen and (max-width: 767px) {}
+/*pc 1000px以下*/
+@media screen and (max-width: 1000px) {}
+img {
+  width: 100%;
+  height: auto;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+a:hover {
+  color: #000;
+}
+/* 文字基準 */
+html, h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Zen Maru Gothic', 'M PLUS Rounded 1c', 'ヒラギノ角ゴシック', 'Hiragino Sans', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'メイリオ', 'Meiryo', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+  font-weight: 700;
+  line-height: 1.8;
+  color: #231816;
+}
+/* 文字基準 */
+/*header*/
+header {
+  display: block;
+}
+/*contents*/
+.contents {
+  position: relative;
+  width: auto;
+  margin-top: 100px;
+  overflow-x: hidden;
+}
+.contents .mar-style {
+  width: calc(100% - 48px);
+  margin: 0 auto 40px;
+
+}
+@media screen and (min-width: 960px) {
+  .contents .mar-style {
+    max-width: 1200px;
+    width: auto;
+    padding: 0 40px;
+    margin: 0 auto 40px;
+  }
+}
+.contents .wide-style {
+  width: 100%;
+  margin: 40px auto;
+}
+/*footer*/
+footer {
+  width: 100%;
+  padding: 30px 0;
+  background-color: #797979;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 0.813em;
+  font-weight: 400;
+}
+footer address {
+  letter-spacing: 5px;
+  font-style: normal;
+}
+/*nav*/
+.inner {
+  max-width: 980px;
+  margin: 0 auto;
+}
+.inner:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+/* header */
+#top-head {
+  position: absolute;
+  top: -100px;
+  z-index: 999;
+  width: 100%;
+  margin: 100px auto 0;
+  padding: 30px 0 0;
+  line-height: 1;
+}
+#top-head a, #top-head {
+  color: #000;
+  text-decoration: none;
+}
+#top-head .inner {
+  position: relative;
+}
+#top-head .logo {
+  float: left;
+  width: 250px;
+}
+/*#global-nav ul {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  font-size: 0.875em;
+  list-style: none; 
+}
+#global-nav ul li {
+  float: left;
+}
+#global-nav ul li a {
+  padding: 0 30px;
+}*/
+/* Fixed */
+#top-head.fixed {
+  position: fixed;
+  top: 0;
+  padding-top: 10px;
+  margin-top: 0;
+  /* height: 100px; */
+  background: #000;
+  background: transparent;
+  transition: top 0.65s ease-in;
+  -webkit-transition: top 0.65s ease-in;
+  -moz-transition: top 0.65s ease-in;
+}
+#top-head.fixed .logo {
+  font-size: 1.500em;
+  color: #333;
+}
+#top-head.fixed #global-nav ul li a {
+  color: #333;
+  padding: 0 20px;
+}
+/* Toggle Button */
+#nav-toggle {
+  display: none;
+  position: absolute;
+  z-index: 101;
+  right: 13px;
+  top: 30px;
+  width: 34px;
+  height: 36px;
+  cursor: pointer;
+}
+#nav-toggle div {
+  position: relative;
+}
+#nav-toggle span {
+  display: block;
+  position: absolute;
+  left: 0;
+  height: 2px;
+  width: 100%;
+  background: #666;
+  -webkit-transition: .35s ease-in-out;
+  -moz-transition: .35s ease-in-out;
+  transition: .35s ease-in-out;
+}
+#nav-toggle span:nth-child(1) {
+  top: 0;
+}
+#nav-toggle span:nth-child(2) {
+  top: 11px;
+}
+#nav-toggle span:nth-child(3) {
+  top: 22px;
+}
+
+  #top-head, .inner {
+    padding: 0;
+  }
+  #top-head {
+    top: 0;
+    position: fixed;
+    margin: 0 auto;
+    width: 100%;
+  }
+  /* Fixed reset */
+  #top-head.fixed {
+    padding-top: 0;
+
+  }
+  #mobile-head {
+    position: relative;
+    z-index: 999;
+    width: 100%;
+    background: #fff;
+    margin: auto;
+  }
+  #top-head.fixed .logo, #top-head .logo {
+    position: absolute;
+    left: 13px;
+    top: 13px;
+    color: #fff;
+    font-size: 1.625em;
+  }
+  #global-nav {
+    position: absolute;
+    /* 開いてないときは画面外に配置 */
+    top: -100vh;
+    width: 100vw;
+/*    padding: 200px 0 80px;*/
+    background-color: #F0F7D2;
+    text-align: center;
+    -webkit-transition: .5s ease-in-out;
+    -moz-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+    line-height: 1.8;
+    background-image: url("../images/bg_fff.png"), url("../images/bg_gre.png"), url("../images/bg_gre_b.png");
+    background-position: center top, center 100px, bottom center;
+    background-repeat: repeat-x;
+    background-size: 75%;
+    height: 100vh;
+  }
+  #global-nav ul {
+    position: static;
+    right: 0;
+    bottom: 0;
+    font-size: 0.875em;
+    list-style: none;
+    padding-top: 240px;
+  }
+  .open #global-nav ul {
+  height: calc(100vh - 280px);
+}
+  #global-nav ul li {
+    position: static;
+    float: none;
+  }
+  #top-head #global-nav ul li a, #top-head.fixed #global-nav ul li a {
+    display: block;
+    width: 100%;
+    padding: 18px 0;
+    color: #000;
+    font-size: 3.0rem;
+    font-weight: 600;
+  }
+  #nav-toggle {
+    display: block;
+  }
+
+
+@media screen and (max-width: 1000px) {
+#global-nav {
+  width: 100%;
+  margin-left: 0;
+  background-position: center top, center 60px, bottom center;
+}
+  #global-nav ul {
+    padding-top: 160px;
+  }
+}
+@media screen and (max-width: 767px) {
+.contents {
+  margin-top: 0px;
+}
+#top-head.fixed {
+  height: auto;
+}
+#top-head .logo {
+  float: left;
+  width:160px;
+}
+
+#global-nav {
+  background-position: center top,  center 60px ,bottom center;
+}
+#global-nav ul {
+  padding-top:130px;
+}
+#top-head #global-nav ul li a, #top-head.fixed #global-nav ul li a {
+  font-size: 1.6rem;
+}
+#nav-toggle {
+  top: 18px;
+}
+#mobile-head {
+  height: 60px;
+}
+footer {
+  padding: 18px 0;
+}
+}
+  /* #nav-toggle 切り替えアニメーション */
+  .open #nav-toggle span:nth-child(1) {
+    top: 11px;
+    -webkit-transform: rotate(315deg);
+    -moz-transform: rotate(315deg);
+    transform: rotate(315deg);
+  }
+  .open #nav-toggle span:nth-child(2) {
+    width: 0;
+    left: 50%;
+  }
+  .open #nav-toggle span:nth-child(3) {
+    top: 11px;
+    -webkit-transform: rotate(-315deg);
+    -moz-transform: rotate(-315deg);
+    transform: rotate(-315deg);
+  }
+  /* #global-nav スライドアニメーション */
+  .open #global-nav {
+    transform: translateY(100vh);
+  }
+
+/*parts*/
+.alpha a:hover {
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -ms-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  -ms-filter: "alpha(opacity=50)";
+}
+.fade {
+  opacity: 1;
+}
+#page-top {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+}
+/*parts*/

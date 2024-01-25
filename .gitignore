@@ -1,0 +1,12 @@
+
+
+# vendor files
+vendor/
+node_module/
+
+# log
+*.log
+*.csv
+
+# config
+config/mail.php

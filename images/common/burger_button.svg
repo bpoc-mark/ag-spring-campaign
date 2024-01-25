@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <filter id="Ellipse_27" x="0" y="0" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="burger_button001" transform="translate(11 8)">
+    <g transform="matrix(1, 0, 0, 1, -11, -8)" filter="url(#Ellipse_27)">
+      <g id="Ellipse_27-2" data-name="Ellipse 27" transform="translate(11 8)" fill="#3a7fc4" stroke="#fff" stroke-width="2">
+        <circle cx="24" cy="24" r="24" stroke="none"/>
+        <circle cx="24" cy="24" r="25" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(-1195.263 -19.263)">
+      <rect id="Rectangle_3438" data-name="Rectangle 3438" width="6" height="6" rx="1" transform="translate(1214.263 32.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3445" data-name="Rectangle 3445" width="6" height="6" rx="1" transform="translate(1214.263 40.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3448" data-name="Rectangle 3448" width="6" height="6" rx="1" transform="translate(1214.263 48.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3441" data-name="Rectangle 3441" width="6" height="6" rx="1" transform="translate(1222.263 32.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3444" data-name="Rectangle 3444" width="6" height="6" rx="1" transform="translate(1222.263 40.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3447" data-name="Rectangle 3447" width="6" height="6" rx="1" transform="translate(1222.263 48.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3442" data-name="Rectangle 3442" width="6" height="6" rx="1" transform="translate(1230.263 32.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3443" data-name="Rectangle 3443" width="6" height="6" rx="1" transform="translate(1230.263 40.263) rotate(90)" fill="#fff"/>
+      <rect id="Rectangle_3446" data-name="Rectangle 3446" width="6" height="6" rx="1" transform="translate(1230.263 48.263) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

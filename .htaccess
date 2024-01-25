@@ -1,0 +1,8 @@
+# deny access to project files
+RedirectMatch 404 ^/README.md
+RedirectMatch 404 ^/\.git
+RedirectMatch 404 ^/\.htaccess
+RedirectMatch 404 ^/\.htpasswd
+RedirectMatch 404 ^/*.log
+RedirectMatch 404 ^/*.csv
+
