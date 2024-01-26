@@ -605,7 +605,97 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 </section>
-<section id="sec7"></section>
+<section id="sec7" class="sec7">
+  <div class="mar-style">
+    <div data-aos="fade-up" data-aos-anchor-placement="top-center">
+      <div class="componentHeader">
+        <div class="header1">
+          <h1 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-center">子どもの可能性を引き出す
+          </h1>
+        </div>
+        <div class="pc">
+          <img src="/images/sec7/headerpc.png" alt="Ballet Kids' unique curriculum">
+        </div>
+        <div class="sp">
+          <img src="/images/sec7/headersp.png" alt="Ballet Kids' unique curriculum">
+        </div>
+
+        <div class="header--dot">
+          <span class="header--dot__clr1"></span>
+          <span class="header--dot__clr2"></span>
+          <span class="header--dot__clr3"></span>
+          <span class="header--dot__clr4"></span>
+        </div>
+      </div>
+      <div class="sect7--container">
+        <div class="l-wrap">
+          <div class="wrapperContainer">
+            <div class="wrapper">
+              <div class="pic">
+                <img src="/images/sec7/card1.png" alt="幼児向けのオリジナル教材">
+              </div>
+              <div class="detail-box">
+                <div class="tags">
+                  <p class="text pink">幼児向け</p>
+                </div>
+                <p class="header-title">幼児向けのオリジナル教材</p>
+                <p class="content">幼児のお子さまは、最適な、パソコン操作と知育を掛け合わせたオリジナル教材で学びます！<br />
+                  またプレゼン資料の作成を通じて、表現する力も培います。<br class="sp">
+                  小学校入学前に情報機器の使い方がわかると先取りにもなります。</p>
+              </div>
+            </div>
+          </div>
+          <div class="wrapperContainer">
+            <div class="wrapper">
+              <div class="pic">
+                <img src="/images/sec7/card2.png" alt="多岐にわたるスキルが身につく授業内容">
+              </div>
+              <div class="detail-box">
+                <div class="tags">
+                  <p class="text orange">小学生向け</p>
+                </div>
+                <p class="header-title">多岐にわたるスキルが身につく授業内容</p>
+                <p class="content">小学生のお子さまはパソコンソフトを活用してサッカーの走行距離を計算する、効果的なケーキ屋さんの案内を作成する、発表資料をつくるなどの課題に取り組むことができるので、データ・グラフの読み取り方など多岐にわたるスキルを身につけることができます。</p>
+              </div>
+            </div>
+          </div>
+          <div class="wrapperContainer">
+            <div class="wrapper">
+              <div class="pic">
+                <img src="/images/sec7/card3.png" alt="お子さまの目的にあった商材をご提供">
+              </div>
+              <div class="detail-box">
+                <div class="tags">
+                  <p class="text green">中学生向け</p>
+                  <p class="text blue">高校生向け</p>
+                </div>
+                <p class="header-title">お子さまの目的にあった商材をご提供</p>
+                <p class="content">中学生・高校生のお子さまは、その子の目的にあった教材を学ぶことができます。<br />
+                  テキストプログラミングの学習を深め、大学入試の『情報』科目の対策も早いうちから始められます。<br>
+                  資格に挑戦するお子さまも多くいらっしゃいます！</p>
+              </div>
+            </div>
+          </div>
+          <div class="wrapperContainer">
+            <div class="wrapper">
+              <div class="pic">
+                <img src="/images/sec7/card4.png" alt="幼児から高校まで一貫して通える">
+              </div>
+              <div class="detail-box">
+                <div class="tags">
+                  <p class="text red">全 般</p>
+                </div>
+                <p class="header-title">幼児から高校まで一貫して通える</p>
+                <p class="content">バレッドキッズは地域の子どもたちのためのプログラミング・パソコン教室です。<br />
+                  幼児から高校生になるまで長く通う方や、ごきょうだい、ご家族が一緒に通われる方もたくさんいます。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <section id="sec4" class="sec4"> 
   <div class="mar-style pic-wrapper">
     <div class="pic-container2 sp">
@@ -647,7 +737,64 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 </section>
-<section id="sec9"></section>
+<section id="sec9" class="sec9">
+  <div class="mar-style">
+    <div data-aos="fade-up" data-aos-anchor-placement="top-center">
+      <div class="componentHeader">
+        <div class="pc">
+          <img src="/images/sec9/Hsec9.png" alt="Ballet Kids' unique curriculum">
+        </div>
+        <div class="sp">
+          <img src="/images/sec9/Hsec9.png" alt="Ballet Kids' unique curriculum">
+        </div>
+        <div class="header--dot">
+          <span class="header--dot__clr1"></span>
+          <span class="header--dot__clr2"></span>
+          <span class="header--dot__clr3"></span>
+          <span class="header--dot__clr4"></span>
+        </div>
+      </div>
+
+      <div class="sec9--container">
+          <div class="trial--title">
+            <p class="trial--text">
+              体験参加者
+          </div>
+        <div class="icon--img">
+          <img src="/images/sec9/icon1.png" alt="体験参加者">
+        </div>
+        <p class="text">保護者の声</p>
+        <p class="text title">子どもの将来に役立つことが分かりました。</p>
+        <p class="broken-line"></p>
+        <p class="text paragraph">プログラミングの必要性は、正直ぼんやりとしか感じていませんでした。<br>子どもがやってみたい！というのと、親では教えられないなと思ったので参加してみました。</p>
+        <p class="text paragraph2 para">ちょっと難しそうなところも、<span class="text red">子どもは興味をもって取り組んでいた</span>ので、クリアできると嬉しそうにしていました。</p>
+        <p class="text paragraph2 para2">先生のお話を伺って、プログラミングを学ぶことを通して、<span class="text red">子どもの将来に役立つこと、色々と身につくこと</span>が分かりました。</p>
+        <p class="text secnd">お子さま（5歳）の声</p>
+        <p class="broken-line"></p>
+        <p class="text paragraph2 prgrph">自分がつなげたブロックで、キャラクターが動いたり、話したりするのが、<span class="text red">面白かったです！<br></span>キーボードも、もっと上手になって、<span class="text red">たくさん打てるようになりたいな</span>と思いました。</p>
+      </div>
+
+      <div class="sec9--container">
+        <div class="trial--title">
+          <p class="trial--text">
+            受講生
+        </div>
+        <div class="icon--img">
+          <img src="/images/sec9/icon2.png" alt="保護者の声">
+        </div>
+        <p class="text">保護者の声</p>
+        <p class="text title">安心して楽しく学べています。</p>
+        <p class="broken-line"></p>
+        <p class="text thrd">本人がプログラミングに興味を持ち、学習意欲が高まったタイミングで、通い始めました。</p>
+        <p class="text paragraph2 frth">50分授業を2コマ続けて受講をしており、集中力が持続するか心配もありましたが、ロジカ講座はすごく楽しく学べているようで、<span class="text red">毎週の受講後は、楽しかった〜と帰ってきます。</span><br>難しい時や上手くできた時など、その都度先生が優しく声をかけて下さるので、安心して通わせています。</p>
+        <p class="text secnd">お子様（小2）の声</p>
+        <p class="broken-line"></p>
+        <p class="text paragraph2 prgrph">タイピングで難しい時もあったけど、先生が優しく励ましてくれたり、できると褒めてくれるので頑張れます。<br>
+          ロジカは<span class="text red">とても楽しく</span>て、ゲームみたいに進めていきながら、プログラミングの事が<span class="text red">とても分かりやすく覚えられる</span>所が良いです。</p>
+      </div>
+    </div>
+  </div>
+</section>
 <section id="sec10" class="sec10">
   <div class="mar-style">
     <div data-aos="fade-up" data-aos-anchor-placement="top-center">
