@@ -238,7 +238,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 
 </section>
-<section id="sec4"></section>
+<section id="sec4" class="sec4"> 
+  <div class="mar-style pic-wrapper">
+    <div class="pic-container2 sp">
+    <img src="images/sec4/Group 2366.png" alt="top-left" class="top-left"/>
+    </div>
+   <div class="componentHeader">
+      <h2 class="component--hdng-ttl">お近くの教室で、<br>実際の授業を体験できます！</h2>
+      <div class="header--dot">
+        <span class="header--dot__clr1"></span>
+        <span class="header--dot__clr2"></span>
+        <span class="header--dot__clr3"></span>
+        <span class="header--dot__clr4"></span>
+      </div>
+    </div>
+    <p class="sec4_desc">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
+    <div class="pic-container pc">
+    <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
+    <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
+    </div>
+    <div class="red-button-container pc">
+    <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
+    <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
+      <a href="" class="btn_01">
+        <span>無料体験・お問い合わせはこちら</span>
+      </a>
+    </div>
+    <div class="red-button-container sp">
+      <img src="images/sec4/kuma5.png" alt="upper-bear-logo" class="upper-bear-logo"/>
+      <img src="images/sec4/kuma52.png" alt="upper-bear-hands" class="upper-bear-hands"/>
+      <a href="" class="btn_01">
+        <span>無料体験・お問い合わせはこちら</span>
+      </a>
+    </div>
+    <div class="bottom-container pc">
+      <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
+    </div>
+    <div class="bottom-container sp">
+      <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
+    </div>
+  </div>
+</section>
 <section id="sec5" class="sec5">
   <div class="mar-style">
     <div class="sec5-content">
@@ -524,9 +564,89 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 </section>
-<section id="sec6"></section>
+<section id="sec4" class="sec4"> 
+  <div class="mar-style pic-wrapper">
+    <div class="pic-container2 sp">
+    <img src="images/sec4/Group 2366.png" alt="top-left" class="top-left"/>
+    </div>
+   <div class="componentHeader">
+      <h2 class="component--hdng-ttl">お近くの教室で、<br>実際の授業を体験できます！</h2>
+      <div class="header--dot">
+        <span class="header--dot__clr1"></span>
+        <span class="header--dot__clr2"></span>
+        <span class="header--dot__clr3"></span>
+        <span class="header--dot__clr4"></span>
+      </div>
+    </div>
+    <p class="sec4_desc">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
+    <div class="pic-container pc">
+    <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
+    <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
+    </div>
+    <div class="red-button-container pc">
+    <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
+    <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
+      <a href="" class="btn_01">
+        <span>無料体験・お問い合わせはこちら</span>
+      </a>
+    </div>
+    <div class="red-button-container sp">
+      <img src="images/sec4/kuma5.png" alt="upper-bear-logo" class="upper-bear-logo"/>
+      <img src="images/sec4/kuma52.png" alt="upper-bear-hands" class="upper-bear-hands"/>
+      <a href="" class="btn_01">
+        <span>無料体験・お問い合わせはこちら</span>
+      </a>
+    </div>
+    <div class="bottom-container pc">
+      <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
+    </div>
+    <div class="bottom-container sp">
+      <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
+    </div>
+  </div>
+</section>
 <section id="sec7"></section>
-<section id="sec8"></section>
+<section id="sec4" class="sec4"> 
+  <div class="mar-style pic-wrapper">
+    <div class="pic-container2 sp">
+    <img src="images/sec4/Group 2366.png" alt="top-left" class="top-left"/>
+    </div>
+   <div class="componentHeader">
+      <h2 class="component--hdng-ttl">お近くの教室で、<br>実際の授業を体験できます！</h2>
+      <div class="header--dot">
+        <span class="header--dot__clr1"></span>
+        <span class="header--dot__clr2"></span>
+        <span class="header--dot__clr3"></span>
+        <span class="header--dot__clr4"></span>
+      </div>
+    </div>
+    <p class="sec4_desc">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
+    <div class="pic-container pc">
+    <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
+    <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
+    </div>
+    <div class="red-button-container pc">
+    <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
+    <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
+      <a href="" class="btn_01">
+        <span>無料体験・お問い合わせはこちら</span>
+      </a>
+    </div>
+    <div class="red-button-container sp">
+      <img src="images/sec4/kuma5.png" alt="upper-bear-logo" class="upper-bear-logo"/>
+      <img src="images/sec4/kuma52.png" alt="upper-bear-hands" class="upper-bear-hands"/>
+      <a href="" class="btn_01">
+        <span>無料体験・お問い合わせはこちら</span>
+      </a>
+    </div>
+    <div class="bottom-container pc">
+      <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
+    </div>
+    <div class="bottom-container sp">
+      <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
+    </div>
+  </div>
+</section>
 <section id="sec9"></section>
 <section id="sec10" class="sec10">
   <div class="mar-style">
@@ -678,7 +798,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="prefecture">
             <h4 for="">都道府県を選択</h4>
             <div>
-              <select name="" id="">
+              <select name="" id="selectPrefecture">
                 <option value="北海道">北海道</option>
                 <option value="青森県">青森県</option>
                 <option value="岩手県">岩手県</option>
@@ -734,32 +854,861 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h4>教室を選択</h4>
             </div>
             <div class="right">
-              <ul>
-                <li>
-                  <a>
-                    <h6>石巻 教室</h6>
-                    <p>石巻市湊町1-5-24</p>
-                  </a>
-                </li>
-                <li>
-                  <a>
-                    <h6>鶴が丘 教室</h6>
-                    <p>仙台市泉区松森字台95-5</p>
-                  </a>
-                </li>
-                <li>
-                  <a>
-                    <h6>志津川 教室</h6>
-                    <p>本吉郡南三陸町志津川字新井34-187本吉郡南三陸町志津川字新井34-187</p>
-                  </a>
-                </li>
-                <li>
-                  <a>
-                    <h6>豊里 教室</h6>
-                    <p>登米市豊里町浦軒84-2</p>
-                  </a>
-                </li>
-              </ul>
+              <div class="prefectureItemWrap" data-target="北海道">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/hokkaido/dou_ou/sapporo-hassamu/" target="_blank">
+                      <h6>札幌発寒 教室</h6>
+                      <p>西区発寒14条2丁目3-1　</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="秋田県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/akita/nishi-senboku/" target="_blank">
+                      <h6>西仙北 教室</h6>
+                      <p>大仙市強首字上野台89-1</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="宮城県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/miyagi/ishinomaki/" target="_blank">
+                      <h6>石巻 教室</h6>
+                      <p>石巻市湊町1-5-24</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/miyagi/tsurugaoka/" target="_blank">
+                      <h6>鶴が丘 教室</h6>
+                      <p>仙台市泉区松森字台95-5</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/miyagi/toyosato/" target="_blank">
+                      <h6>豊里 教室</h6>
+                      <p>登米市豊里町浦軒84-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/miyagi/shidugawa/" target="_blank">
+                      <h6>志津川 教室</h6>
+                      <p>本吉郡南三陸町志津川字新井田34-187</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="福島県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/fukushima/aidu-higashiyama/" target="_blank">
+                      <h6>住まいるプラザ会津東山 教室</h6>
+                      <p>会津若松市東山町大字石山字天寧91</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/fukushima/iwaki/" target="_blank">
+                      <h6>いわき 教室</h6>
+                      <p>いわき市平作町1-1-1 プランドールKS101</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tohoku/fukushima/yatsuyamada/" target="_blank">
+                      <h6>八山田 教室</h6>
+                      <p>郡山市八山田2-188</p>
+                    </a>
+                  </li> 
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="栃木県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tochigi/shimoguri/" target="_blank">
+                      <h6>下栗 教室</h6>
+                      <p>宇都宮市下栗町2937-13　エボルブジム</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tochigi/utsunomiya-izumigaoka/" target="_blank">
+                      <h6>宇都宮泉が丘 教室</h6>
+                      <p>宇都宮市泉が丘5-4-11</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tochigi/otawara/" target="_blank">
+                      <h6>大田原 教室</h6>
+                      <p>新富町1-3-26 吉田ビル2F</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="群馬県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/gunma/takasaki-misato/" target="_blank">
+                      <h6>高崎箕郷 教室</h6>
+                      <p>高崎市箕郷町東明屋710-5</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="埼玉県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/higashi-kawaguchi/" target="_blank">
+                      <h6>東川口 教室</h6>
+                      <p>川口市東川口1-3-2　秋元ビル１F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/minami-hatogaya/" target="_blank">
+                      <h6>南鳩ヶ谷 教室</h6>
+                      <p>川口市南鳩ヶ谷1-25-14</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/kawagoe/" target="_blank">
+                      <h6>川越 教室</h6>
+                      <p>川越市東田町8-12　佐賀ビル202</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/musashiurawa-ekimae/" target="_blank">
+                      <h6>武蔵浦和駅前 教室</h6>
+                      <p>さいたま市南区別所7-9-5 アルクトスビル2階</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/omiya/" target="_blank">
+                      <h6>ユリウス大宮 教室</h6>
+                      <p>さいたま市大宮区桜木町1-4-1　吉田ビル5F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/urawa/" target="_blank">
+                      <h6>浦和 教室</h6>
+                      <p>さいたま市浦和区岸町4-26-1　コスタ・タワー浦和１F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/sakado/" target="_blank">
+                      <h6>坂戸 教室</h6>
+                      <p>鶴ヶ島市脚折町2丁目29番3　高沢コーポ202号室</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/saitama/nodera/" target="_blank">
+                      <h6>野寺 教室</h6>
+                      <p>新座市片山3-18-12</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="千葉県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/chiba/globo-soga/" target="_blank">
+                      <h6>GLOBO蘇我 教室</h6>
+                      <p>千葉市中央区川崎町1−34　GLOBOショッピングセンター内1F</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="東京都">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/nishinippori/" target="_blank">
+                      <h6>西日暮里 教室</h6>
+                      <p>荒川区西日暮里5-31-5 西日暮里STビル3F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/haneda/" target="_blank">
+                      <h6>羽田 教室</h6>
+                      <p>大田区羽田3-8-18</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/takasago-sumiyoshi/" target="_blank">
+                      <h6>南綾瀬 教室</h6>
+                      <p>葛飾区堀切5-40-16-107（氷川神社前）</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/takasago-sumiyoshi/" target="_blank">
+                      <h6>高砂住吉 教室</h6>
+                      <p>葛飾区高砂7-3-12　2階</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/ariake/" target="_blank">
+                      <h6>有明 教室</h6>
+                      <p>東京都江東区有明3-7-18　有明セントラルタワー2F　キッズルームひかり内</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/ochiai2/" target="_blank">
+                      <h6>落合第二 教室</h6>
+                      <p>新宿区上落合2-1-7 ブルーノート102</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/yamano-kouen/" target="_blank">
+                      <h6>山野公園 教室</h6>
+                      <p>世田谷区砧6-10-6</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/nihonbashi/" target="_blank">
+                      <h6>日本橋 教室</h6>
+                      <p>中央区日本橋大伝馬町2-2-1301</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/sugamo/" target="_blank">
+                      <h6>ユリウス巣鴨 教室</h6>
+                      <p>巣鴨1-12-1　冠城（かぶらぎ）ビル5F　ユリウス巣鴨教室内</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/sugamo-otsuka/" target="_blank">
+                      <h6>巣鴨大塚 教室</h6>
+                      <p>豊島区北大塚1-21-8-101</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/nakamurabashi/" target="_blank">
+                      <h6>中村橋 教室</h6>
+                      <p>練馬区中村3丁目25-16 外山ビル1F-102</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/minami-tsukushino/" target="_blank">
+                      <h6>町田駅前 教室</h6>
+                      <p>町田市原町田5-5-2　キャピタルオシダ401</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/minami-tsukushino/" target="_blank">
+                      <h6>南つくし野 教室</h6>
+                      <p>町田市南つくし野4-10-10</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/nakameguro/" target="_blank">
+                      <h6>中目黒 教室</h6>
+                      <p>目黒区東山1-1-5　東山ATビル602</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="神奈川県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/isehara/" target="_blank">
+                      <h6>伊勢原 教室</h6>
+                      <p>伊勢原市桜台2-24-14セレッサビル1F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/sakae-cho/" target="_blank">
+                      <h6>栄町 教室</h6>
+                      <p>小田原市栄町3-10-11</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/shinkawasaki/" target="_blank">
+                      <h6>ユリウス新川崎 教室</h6>
+                      <p>川崎市幸区新川崎5-2　シンカモール3階　メディカルフロア内</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/kamakuradai/" target="_blank">
+                      <h6>鎌倉台 教室</h6>
+                      <p>鎌倉市台3-1-10 デ・クール鎌倉103</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/kawasakiekimae/" target="_blank">
+                      <h6>ユリウス川崎 教室</h6>
+                      <p>川崎市幸区大宮町２−８ イクス川崎ザ・タワー 2F ユリウス川崎教室内</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/shingaku-sugao/" target="_blank">
+                      <h6>進学サポート塾菅生 教室</h6>
+                      <p>川崎市宮前区菅生6-32-20 コリーヌ山中109号</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/tana-kita/" target="_blank">
+                      <h6>田名北 教室</h6>
+                      <p>相模原市中央区田名3258-4</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/kisawa/" target="_blank">
+                      <h6>吉沢 教室</h6>
+                      <p>平塚市めぐみが丘2-8-11</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/shonan/" target="_blank">
+                      <h6>湘南 教室</h6>
+                      <p>藤沢市藤沢607-1 ミナパーク5階</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/honmoku/" target="_blank">
+                      <h6>本牧 教室</h6>
+                      <p>横浜市中区本郷町2-32　ヒロハシビル2Ｆ</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/kanagawa/tsurumi/" target="_blank">
+                      <h6>鶴見 教室</h6>
+                      <p>横浜市鶴見区鶴見中央4-44-5</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="長野県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/nagano/higashi-haruchika/" target="_blank">
+                      <h6>東春近 教室</h6>
+                      <p>伊那市東春近2507-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kanto/nagano/azumino-matsukawa/" target="_blank">
+                      <h6>安曇野松川 教室</h6>
+                      <p>北安曇郡松川村細野5268-331</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="岐阜県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/ikeda/" target="_blank">
+                      <h6>池田 教室</h6>
+                      <p>揖斐郡池田町下東野328</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/akasaka/" target="_blank">
+                      <h6>赤坂 教室</h6>
+                      <p>岐阜県大垣市赤坂大門3-88</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/e-higashi/" target="_blank">
+                      <h6>江東 教室</h6>
+                      <p>大垣市釜笛2-9-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/kinryu/" target="_blank">
+                      <h6>金竜 教室</h6>
+                      <p>関市山田1345-6 パークタウン203号室</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/takayama-kita/" target="_blank">
+                      <h6>高山北 教室</h6>
+                      <p>高山市下岡本町1858-7</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/koizumi/" target="_blank">
+                      <h6>小泉 教室</h6>
+                      <p>多治見市小泉町8-103</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/sumiyoshi/" target="_blank">
+                      <h6>住吉 教室</h6>
+                      <p>多治見市住吉町7-29-1　ファインビル住吉Ⅲ　201号室</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/izumi-nishi/" target="_blank">
+                      <h6>泉西 教室</h6>
+                      <p>土岐市泉大沼町3-3</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/rakuna-toki/" target="_blank">
+                      <h6>ラクーナ土岐 教室</h6>
+                      <p>土岐市泉岩畑町1-9-1 エルシェハート2F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/honden/" target="_blank">
+                      <h6>本田 教室</h6>
+                      <p>瑞穂市本田2093-9</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/gifu/yoro/" target="_blank">
+                      <h6>養老 教室</h6>
+                      <p>養老郡養老町養老1238-6</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="静岡県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/gomyo/" target="_blank">
+                      <h6>五明 教室</h6>
+                      <p>掛川市五明1823</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/osato-higashi/" target="_blank">
+                      <h6>大里東 教室</h6>
+                      <p>静岡市駿河区下島808-1</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/yui/" target="_blank">
+                      <h6>由比 教室</h6>
+                      <p>静岡市清水区由比町屋原３３５－５</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/subashiri/" target="_blank">
+                      <h6>須走 教室</h6>
+                      <p>駿東郡小山町須走135-17</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/hamamatsu/" target="_blank">
+                      <h6>浜松 教室</h6>
+                      <p>浜松市南区卸本町19スズヤビル東3F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/keta/" target="_blank">
+                      <h6>気田 教室</h6>
+                      <p>浜松市天竜区春野町気田872-1 まほろば文庫様隣</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/toyooka/" target="_blank">
+                      <h6>豊岡 教室</h6>
+                      <p>浜松市北区大原町439-5</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/fujieda-takasu/" target="_blank">
+                      <h6>藤枝高洲 教室</h6>
+                      <p>藤枝市与左衛門207番地</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/mishima-kita/" target="_blank">
+                      <h6>三島北 教室</h6>
+                      <p>三島市大宮町3-8-38</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/shizuoka/oigawa-minami/" target="_blank">
+                      <h6>大井川南 教室</h6>
+                      <p>焼津市高新田1917</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="愛知県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/kitayamadai/" target="_blank">
+                      <h6>北山台 教室</h6>
+                      <p>愛知郡東郷町北山台2-4-9</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/anjo-seibu/" target="_blank">
+                      <h6>安城西部 教室</h6>
+                      <p>安城市福釜町東湫22</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/minami-anjo/" target="_blank">
+                      <h6>南安城 教室</h6>
+                      <p>安城市法連町6-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/hagiwara/" target="_blank">
+                      <h6>萩原 教室</h6>
+                      <p>一宮市萩原町串作字東田面33-1　</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/kusakabe/" target="_blank">
+                      <h6>日下部 教室</h6>
+                      <p>稲沢市日下部西町1-54</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/osato/" target="_blank">
+                      <h6>大里 教室</h6>
+                      <p>稲沢市日下部西町2丁目104-4</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/owari-asahi/" target="_blank">
+                      <h6>尾張旭・旭 教室</h6>
+                      <p>尾張旭市東大道町山の内2392-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/iwanaridai-nishi/" target="_blank">
+                      <h6>岩成台西 教室</h6>
+                      <p>春日井市岩成台10-4-15</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/shiotsu/" target="_blank">
+                      <h6>塩津 教室</h6>
+                      <p>蒲郡市竹谷町浜家30-1</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/konan/" target="_blank">
+                      <h6>江南 教室</h6>
+                      <p>江南市野白町西千丸65</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/shinano/" target="_blank">
+                      <h6>品野 教室</h6>
+                      <p>品野町5-27</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/nakayama/" target="_blank">
+                      <h6>中山 教室</h6>
+                      <p>田原市中山町八軒屋59-1</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/goyu/" target="_blank">
+                      <h6>御油 教室</h6>
+                      <p>豊川市御油町古御堂101-3</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/kanaya/" target="_blank">
+                      <h6>金屋 教室</h6>
+                      <p>豊川市中央通5-76　中尾マンション1階</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/kou/" target="_blank">
+                      <h6>国府 教室</h6>
+                      <p>豊川市国府町上坊入8-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/umetsubo/" target="_blank">
+                      <h6>梅坪 教室</h6>
+                      <p>豊田市上原町西山398番地12</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/nakano/" target="_blank">
+                      <h6>中野 教室</h6>
+                      <p>豊橋市中浜町219-27</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/ikeshita/" target="_blank">
+                      <h6>星ヶ丘 教室</h6>
+                      <p>名東区名東本町170番地　ライオンズマンション虹が丘A913号室</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/kasadera-shuzan/" target="_blank">
+                      <h6>大磯 教室</h6>
+                      <p>名古屋市南区戸部町1-22</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/meieki/" target="_blank">
+                      <h6>名駅 教室</h6>
+                      <p>名古屋市中村区椿町20-15名古屋国鉄会館502（名古屋駅太閤通口から徒歩スグ）</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/noritake/" target="_blank">
+                      <h6>則武 教室</h6>
+                      <p>名古屋市中村区松原町3-21-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/obata-ryokuchimae/" target="_blank">
+                      <h6>小幡緑地前 教室</h6>
+                      <p>名古屋市守山区小幡北102 白沢マンション1F</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/isshiki-chuo/" target="_blank">
+                      <h6>一色中央 教室</h6>
+                      <p>西尾市一色町前野新田71-1</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/koda/" target="_blank">
+                      <h6>幸田 教室</h6>
+                      <p>額田郡幸田町高力神山25-1</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/aichi/kodakara/" target="_blank">
+                      <h6>子宝 教室</h6>
+                      <p>弥富市子宝2丁目58番地</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="三重県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/mie/owase/" target="_blank">
+                      <h6>尾鷲 教室</h6>
+                      <p>尾鷲市中央町7番5号</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/mie/oyamada-kita/" target="_blank">
+                      <h6>大山田北 教室</h6>
+                      <p>桑名市大山田4-7-10</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/mie/matsusaka-hanaoka/" target="_blank">
+                      <h6>松阪花岡 教室</h6>
+                      <p>松阪市大黒田町600-2</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/mie/asahi/" target="_blank">
+                      <h6>朝日 教室</h6>
+                      <p>三重郡朝日町縄生635</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/tokai/mie/nakamachi-shingaku/" target="_blank">
+                      <h6>中町進学 教室</h6>
+                      <p>四日市市中町9-6</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="石川県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/hokuriku/ishikawa/kibikino-katsuramachi" target="_blank">
+                      <h6>木曳野桂町 教室</h6>
+                      <p>金沢市桂町ホ31-2</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="京都府">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/kyoto/kyotango-mineyama/" target="_blank">
+                      <h6>京丹後峰山 教室</h6>
+                      <p>京丹後市峰山町泉10</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/kyoto/fukuchiyama/" target="_blank">
+                      <h6>福知山 教室</h6>
+                      <p>駅前町 3 銀鈴ビル２Fスマホのちどり福知山店</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="大阪府">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/osaka/anashi/" target="_blank">
+                      <h6>穴師 教室</h6>
+                      <p>泉大津市池浦町5-1-20</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/osaka/izumi-chuo/" target="_blank">
+                      <h6>和泉中央 教室</h6>
+                      <p>大阪府和泉市いぶき野5丁目4番7号（和泉シティプラザ</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/osaka/tezukayama/" target="_blank">
+                      <h6>帝塚山 教室</h6>
+                      <p>大阪市住吉区帝塚山東４-７-２</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/osaka/minoo-makiochi/" target="_blank">
+                      <h6>箕面牧落 教室</h6>
+                      <p>箕面市牧落3-4-20　クオリティ牧落101</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="兵庫県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/hyogo/uozumi-minami/" target="_blank">
+                      <h6>魚住南 教室</h6>
+                      <p>明石市魚住町西岡100番地</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/hyogo/shirakawadai/" target="_blank">
+                      <h6>白川台 教室</h6>
+                      <p>神戸市須磨区白川台1-25-3</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/hyogo/joyo/" target="_blank">
+                      <h6>城陽 教室</h6>
+                      <p>姫路市北条永良町16番地２F　（有）中川建工内</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kansai/hyogo/midorigaoka-higashi/" target="_blank">
+                      <h6>緑が丘東 教室</h6>
+                      <p>三木市緑が丘町西2丁目13-20</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="鳥取県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/chugoku/tottori/kurayoshi/" target="_blank">
+                      <h6>ゆっくりやさしくパソコン教室倉吉 教室</h6>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/chugoku/tottori/tottori-minami/" target="_blank">
+                      <h6>ゆっくりやさしくパソコン教室鳥取駅南 教室</h6>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="島根県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/chugoku/shimane/yasugitokami/" target="_blank">
+                      <h6>安来十神 教室</h6>
+                      <p>安来市安来町1639　やすぎ懐古館一風亭内</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="岡山県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/chugoku/okayama/tamashima-tomita/" target="_blank">
+                      <h6>玉島富田 教室</h6>
+                      <p>倉敷市玉島道口123-4</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="山口県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/chugoku/yamaguchi/yasuoka/" target="_blank">
+                      <h6>安岡 教室</h6>
+                      <p>下関市安岡1465-29</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="福岡県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/fukuoka/koga/" target="_blank">
+                      <h6>古賀 教室</h6>
+                      <p>古賀市美明3-3-8</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="長崎県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/nagasaki/isahayakaizugaoka/" target="_blank">
+                      <h6>諌早貝津ヶ丘 教室</h6>
+                      <p>諫早市貝津が丘５９４－３４</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="熊本県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/kumamoto/sunshop-usuba/" target="_blank">
+                      <h6>サンショップ薄場 教室熊本市南区薄場3丁目1-23サンショップ</h6>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="prefectureItemWrap" data-target="沖縄県">
+                <ul>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/ishigaki/" target="_blank">
+                      <h6>石垣 教室</h6>
+                      <p>石垣市字石垣491-15</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/ishigaki-shinkawa/" target="_blank">
+                      <h6>石垣新川 教室</h6>
+                      <p>石垣市新川2187</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/oac-okinawa/" target="_blank">
+                      <h6>ＯＡＣ沖縄 教室</h6>
+                      <p>沖縄市仲宗根町8-11</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/oac-nago/" target="_blank">
+                      <h6>ＯＡＣ名護 教室</h6>
+                      <p>名護市宇茂佐915-11</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/oac-naha/" target="_blank">
+                      <h6>ＯＡＣ那覇 教室</h6>
+                      <p>那覇市泊2-1-8</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/wakasa/" target="_blank">
+                      <h6>若狭 教室</h6>
+                      <p>那覇市若狭2-20-18</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
@@ -787,10 +1736,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>
   AOS.init({
     once: true,
-  });
-
-  $(function() {
-    $('.prefectureContents ul li a').matchHeight();
   });
 
   var swiper = new Swiper(".infantSwiper", {
@@ -831,6 +1776,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     pagination: {
       el: ".swiper-paginationKids",
     },
+  });
+
+  $('#selectPrefecture').change(function(){
+    var selectedPrefecture = $(this).val();
+    $('.prefectureContents .prefectureItemWrap').hide();
+    $('[data-target="' + selectedPrefecture + '"]').show();
   });
 </script>
 
