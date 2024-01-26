@@ -1526,7 +1526,7 @@
 .sec11{
   background: #2775BD url('../images/common/backimg_02.jpg') repeat-y right top;
   background-size: contain;
-  padding: 70px 0 120px;
+  padding: 70px 0 80px;
   position: relative;
 }
 .sec11::before{

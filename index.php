@@ -80,7 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <a href="index.php"><img src="/images/common/logo.svg" alt="" /></a>
       </div>
       <div class="header--right">
-        <a href="#sec12" class="header--request">
+        <a href="#sec11" class="header--request">
           <p class="header--request__txt">無料体験・お問い合わせはこちら</p>
         </a>
         <div class="header--menu">
@@ -97,25 +97,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </a>
           <div class="header--ham_menu">
             <div class="header--ham_menu__container">
-              <!-- <a href="" class="close-btn">
-                <span></span>
-                <p>
-                  <svg xmlns="http://www.w3.org/2000/svg" width="37.284" height="8.808" viewBox="0 0 37.284 8.808">
-                    <path id="Path_6370" data-name="Path 6370" d="M-14.706.192a3.856,3.856,0,0,1-2.034-.54,3.7,3.7,0,0,1-1.4-1.53,5.055,5.055,0,0,1-.5-2.322,5.083,5.083,0,0,1,.5-2.334,3.745,3.745,0,0,1,1.4-1.536,3.824,3.824,0,0,1,2.034-.546A3.869,3.869,0,0,1-13.14-8.3a3.728,3.728,0,0,1,1.242.876.532.532,0,0,1,.156.534.714.714,0,0,1-.324.414l-.06.036a.732.732,0,0,1-.444.072.86.86,0,0,1-.528-.252,2.123,2.123,0,0,0-.714-.474,2.372,2.372,0,0,0-.894-.162,2.294,2.294,0,0,0-1.308.378,2.437,2.437,0,0,0-.87,1.068A3.952,3.952,0,0,0-17.19-4.2a3.92,3.92,0,0,0,.306,1.6,2.437,2.437,0,0,0,.87,1.068,2.294,2.294,0,0,0,1.308.378A2.231,2.231,0,0,0-13.1-1.788a.909.909,0,0,1,.492-.264.825.825,0,0,1,.48.072l.024.024a.68.68,0,0,1,.354.4.522.522,0,0,1-.126.546,3.634,3.634,0,0,1-1.248.888A3.942,3.942,0,0,1-14.706.192ZM-9.45,0a.626.626,0,0,1-.708-.708V-7.692A.615.615,0,0,1-9.474-8.4a.621.621,0,0,1,.7.708v6.408h3.672q.708,0,.708.636T-5.106,0ZM.2.192a3.856,3.856,0,0,1-2.034-.54,3.7,3.7,0,0,1-1.4-1.53,5.055,5.055,0,0,1-.5-2.322,5.083,5.083,0,0,1,.5-2.334,3.745,3.745,0,0,1,1.4-1.536A3.824,3.824,0,0,1,.2-8.616,3.762,3.762,0,0,1,2.22-8.07,3.815,3.815,0,0,1,3.612-6.534,5.033,5.033,0,0,1,4.122-4.2a5.005,5.005,0,0,1-.51,2.322A3.772,3.772,0,0,1,2.22-.348,3.794,3.794,0,0,1,.2.192Zm0-1.344A2.258,2.258,0,0,0,1.506-1.53,2.47,2.47,0,0,0,2.364-2.6,3.92,3.92,0,0,0,2.67-4.2a3.952,3.952,0,0,0-.306-1.614,2.47,2.47,0,0,0-.858-1.068A2.258,2.258,0,0,0,.2-7.26a2.294,2.294,0,0,0-1.308.378,2.437,2.437,0,0,0-.87,1.068A3.952,3.952,0,0,0-2.286-4.2,3.92,3.92,0,0,0-1.98-2.6,2.437,2.437,0,0,0-1.11-1.53,2.294,2.294,0,0,0,.2-1.152ZM8.442.168A4.433,4.433,0,0,1,6.786-.138a3.1,3.1,0,0,1-1.32-1.026A.632.632,0,0,1,5.328-1.7a.66.66,0,0,1,.354-.4.624.624,0,0,1,.5-.1,1.023,1.023,0,0,1,.456.318,2.251,2.251,0,0,0,.774.54,2.727,2.727,0,0,0,1.074.192,1.777,1.777,0,0,0,1.182-.306,1.062,1.062,0,0,0,.342-.834,1.065,1.065,0,0,0-.15-.576,1.377,1.377,0,0,0-.624-.45,8.2,8.2,0,0,0-1.458-.426A3.349,3.349,0,0,1,6.06-4.62,2.15,2.15,0,0,1,5.5-6.144a2.356,2.356,0,0,1,.354-1.29,2.379,2.379,0,0,1,1-.87,3.409,3.409,0,0,1,1.506-.312A3.7,3.7,0,0,1,9.93-8.3a3.56,3.56,0,0,1,1.128.8.58.58,0,0,1,.18.5.765.765,0,0,1-.312.456.606.606,0,0,1-.5.168,1,1,0,0,1-.48-.276A2.687,2.687,0,0,0,9.258-7.1a2.132,2.132,0,0,0-.912-.18,1.745,1.745,0,0,0-1.014.27.92.92,0,0,0-.39.81,1,1,0,0,0,.114.462,1.134,1.134,0,0,0,.5.426,5.463,5.463,0,0,0,1.206.4,4.155,4.155,0,0,1,2.076.972,2.235,2.235,0,0,1,.636,1.632,2.186,2.186,0,0,1-.834,1.842A3.514,3.514,0,0,1,8.442.168ZM13.6,0a.626.626,0,0,1-.708-.708V-7.692A.626.626,0,0,1,13.6-8.4h4.2q.708,0,.708.648t-.708.636H14.274v2.184H17.43q.708,0,.708.648t-.708.648H14.274v2.352h3.66q.708,0,.708.636T17.934,0Z" transform="translate(18.642 8.616)" fill="#fff"/>
-                  </svg>
-                </p>
-              </a> -->
               <div class="close-btn__center">
                 <ul> 
                   <li><a href="index.php">TOP</a></li>
-                  <li><a href="#sec03">バレッドキッズとは？</a></li>
-                  <li><a href="#sec06">バレッドキッズの3つの特長</a></li>
-                  <li><a href="#sec08">独自のカリキュラム</a></li>
-                  <li><a href="#sec10">体験参加者・受講生の声</a></li>
-                  <li><a href="#sec11">よくある質問</a></li>
+                  <li><a href="#sec2">バレッドキッズとは？</a></li>
+                  <li><a href="#sec5">バレッドキッズの3つの特長</a></li>
+                  <li><a href="#sec7">独自のカリキュラム</a></li>
+                  <li><a href="#sec9">体験参加者・受講生の声</a></li>
+                  <li><a href="#sec10">よくある質問</a></li>
                 </ul>
                 <div>
-                  <a href="" class="btn_01">無料体験・<br class="sp">お問い合 わせはこちら</a>
+                  <a href="#sec11" class="btn_01">無料体験・<br class="sp">お問い合 わせはこちら</a>
                 </div>
               </div>
             </div>
@@ -136,35 +128,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="mar-style">
     <div class="content">
       <div class="pc">
-        <h1>
+        <h1 data-aos="fade-up" data-aos-anchor-placement="top-bottom">
           <img draggable="false"  src="./images/sec1/mv_ttl-1.png" alt="幼児・小学校低学年から始められる！ | 子どもたちが社会を生きぬく力を身につける | プログラミング教室">
         </h1>
         <div class="flex">
           <div class="left">
-            <figure>
+            <figure data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
               <img draggable="false"  src="./images/sec1/mv_ttl-2.png" alt="入会キャンペーン実施中！ | ※キャンペーンは、PC-ITCコースのみ対象になります。">
             </figure>
           </div>
           <div class="right">
-            <figure>
+            <figure data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
               <img draggable="false"  src="./images/sec1/mv_ttl-3.png" alt="各教室にて | 無料体験! | 受付中!">
             </figure>
           </div>
         </div>
       </div>
       <div class="sp">
-        <figure>
+        <figure data-aos="fade-up" data-aos-anchor-placement="top-bottom">
           <img src="/images/sec1/mv_ttl-1_sp_1.png" alt="">
         </figure>
-        <figure>
+        <figure data-aos="fade-up" data-aos-anchor-placement="top-bottom">
           <img src="/images/sec1/mv_ttl-1_sp_2.png" alt="">
         </figure>
-        <figure>
+        <figure data-aos="fade-up" data-aos-anchor-placement="top-bottom">
           <img src="/images/sec1/mv_ttl-1_sp_3.png" alt="">
         </figure>
       </div>
-      <div class="btnWrap">
-        <a href="" class="btn_01">無料体験・お問い合わせはこちら</a>
+      <div class="btnWrap" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="800">
+        <a href="#sec11" class="btn_01">無料体験・お問い合わせはこちら</a>
       </div>
     </div>
   </div>
@@ -173,18 +165,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="sec2">
   <div class="mar-style">
     <div class='section2Container'>
-      <div class='childrenContainer'>
+      <div class='childrenContainer' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
         <img src="/images/sec2/children.png" alt="バレッドキッズとは？">
       </div>
       <div class="sect2DescContainer">
-        <h2 class='sect2-title'>バレッドキッズとは？</h2>
-        <div class="header--dot sect2-dot">
+        <h2 class='sect2-title' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">バレッドキッズとは？</h2>
+        <div class="header--dot sect2-dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
           <span class="header--dot__clr1"></span>
           <span class="header--dot__clr2"></span>
           <span class="header--dot__clr3"></span>
           <span class="header--dot__clr4"></span>
         </div>
-        <div class='sect2-decript'>
+        <div class='sect2-decript' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="800">
 
           <p class='p_descrpt1'>
           バレッドキッズは2024年で30周年を迎える、子ども向けパソコン・プログラミングスクールです。<br>全国に140教室を展開しております。
@@ -202,9 +194,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="mar-style">
     <div class='section3Container'>
       <div class='headerContainer'>
-        <img src="/images/sec3/sect3Title.png" alt="お子さまにこんな想い…ありませんか？" class='sect3-title pc'>
-        <img src="/images/sec3/sect3Title2360.png" alt="お子さまにこんな想い…ありませんか？" class='sect3-title sp'>
-        <div class="header--dot">
+        <img src="/images/sec3/sect3Title.png" alt="お子さまにこんな想い…ありませんか？" class='sect3-title pc' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+        <img src="/images/sec3/sect3Title2360.png" alt="お子さまにこんな想い…ありませんか？" class='sect3-title sp' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+        <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
           <span class="header--dot__clr1"></span>
           <span class="header--dot__clr2"></span>
           <span class="header--dot__clr3"></span>
@@ -212,23 +204,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="sect3familyCon">
-        <div class='familyContainer'>
+        <div class='familyContainer' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
           <img src="/images/sec3/family.png" alt="お子さまにこんな想い…ありませんか？">
         </div>
         <div class='checkListContainer'>
-          <div class='sect3Decript1'>
+          <div class='sect3Decript1' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
             <img src="/images/sec3/check.png" alt="お子さまにこんな想い…ありませんか？" class='checkImage'>
             <p>どんな習い事をやらせてあげればいいのかわからない</p>
           </div>
-          <div class='sect3Decript1'>
+          <div class='sect3Decript1' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
             <img src="/images/sec3/check.png" alt="お子さまにこんな想い…ありませんか？" class='checkImage'>
             <p>子どもが夢中になって続けられるものを見つけたい</p>
           </div>
-          <div class='sect3Decript1'>
+          <div class='sect3Decript1' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="800">
             <img src="/images/sec3/check.png" alt="お子さまにこんな想い…ありませんか？" class='checkImage'>
             <p>社会に出て生かせるスキルを身につけさせたい</p>
           </div>
-          <div class='sect3Decript1'>
+          <div class='sect3Decript1' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="900">
             <img src="/images/sec3/check.png" alt="お子さまにこんな想い…ありませんか？" class='checkImage'>
             <p>楽しみながら役に立つことを学ばせたい</p>
           </div>
@@ -244,37 +236,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <img src="images/sec4/Group 2366.png" alt="top-left" class="top-left"/>
     </div>
    <div class="componentHeader">
-      <h2 class="component--hdng-ttl">お近くの教室で、<br>実際の授業を体験できます！</h2>
-      <div class="header--dot">
+      <h2 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">お近くの教室で、<br>実際の授業を体験できます！</h2>
+      <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
         <span class="header--dot__clr1"></span>
         <span class="header--dot__clr2"></span>
         <span class="header--dot__clr3"></span>
         <span class="header--dot__clr4"></span>
       </div>
     </div>
-    <p class="sec4_desc">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
+    <p class="sec4_desc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
     <div class="pic-container pc">
-    <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
-    <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
+      <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
+      <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
     </div>
-    <div class="red-button-container pc">
-    <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
-    <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
-      <a href="" class="btn_01">
+    <div class="red-button-container pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
+      <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
+      <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
+      <a href="#sec11" class="btn_01">
         <span>無料体験・お問い合わせはこちら</span>
       </a>
     </div>
-    <div class="red-button-container sp">
+    <div class="red-button-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
       <img src="images/sec4/kuma5.png" alt="upper-bear-logo" class="upper-bear-logo"/>
       <img src="images/sec4/kuma52.png" alt="upper-bear-hands" class="upper-bear-hands"/>
-      <a href="" class="btn_01">
+      <a href="#sec11" class="btn_01">
         <span>無料体験・お問い合わせはこちら</span>
       </a>
     </div>
-    <div class="bottom-container pc">
+    <div class="bottom-container pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
       <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
     </div>
-    <div class="bottom-container sp">
+    <div class="bottom-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
       <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
     </div>
   </div>
@@ -284,8 +276,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="sec5-content">
       <div class="headerWrap">
         <div class="headerTtl">
-          <p>他のプログラミング教室とここが違う!</p>
-          <h3>
+          <p data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">他のプログラミング教室とここが違う!</p>
+          <h3 data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
             <figure class="pc">
               <img src="/images/sec5/sec5-ttl.png" alt="">
             </figure>
@@ -293,12 +285,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <img src="/images/sec5/sec5-ttl_sp.png" alt="">
             </figure>
           </h3>
-          <figure class="bearFloat pc">
+          <figure class="bearFloat pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
             <img src="/images/sec5/bear_img.png" alt="">
           </figure>
         </div>
       </div>
-      <div class="point">
+      <div class="point" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
         <div class="pointHeader"> 
           <div class="flex">
             <div class="item">
@@ -316,23 +308,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="pointContent">
           <div class="pointContentWrap">
-            <div class="pointContentWrap-ttl">
+            <div class="pointContentWrap-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
               <p>プログラミング的思考だけでなく</p>
               <h3>「情報活用能力」の<br class="sp">取得・育成</h3>
               <p>を目指します!!</p>
             </div>
-            <p class="pointContentWrap-desc">文部科学省が定め、子どもたちの教科書や時間割の基になる学習指導要領には、「言語能力」「情報活用能力」「問題発見・解決能力」等の学習の基盤となる資質・能力を育成していくことが示されています。<br>「バレッドキッズ」ではこの中で、『情報活用能力』の取得・育成を目標とします。</p>
+            <p class="pointContentWrap-desc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">文部科学省が定め、子どもたちの教科書や時間割の基になる学習指導要領には、「言語能力」「情報活用能力」「問題発見・解決能力」等の学習の基盤となる資質・能力を育成していくことが示されています。<br>「バレッドキッズ」ではこの中で、『情報活用能力』の取得・育成を目標とします。</p>
           </div>
-          <div class="pointContent-point1">
-            <p>学校の授業はもちろん、『情報活用能力』は一生もののスキル！<br>情報活用能力の取得・育成を通して、社会を生きぬく力を身につけていきます。</p>
-            <figure>
+          <div class="pointContent-point1" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
+            <p data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">学校の授業はもちろん、『情報活用能力』は一生もののスキル！<br>情報活用能力の取得・育成を通して、社会を生きぬく力を身につけていきます。</p>
+            <figure data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="800">
               <img src="/images/sec5/img01.png" alt="" class="pc">
               <img src="/images/sec5/img01_sp.png" alt="" class="sp">
             </figure>
           </div>
         </div>
       </div>
-      <div class="point">
+      <div class="point" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
         <div class="pointHeader"> 
           <div class="flex">
             <div class="item">
@@ -350,13 +342,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="pointContent">
           <div class="pointContentWrap">
-            <div class="pointContentWrap-ttl">
+            <div class="pointContentWrap-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
               <h3>社会に出てすぐに役立つ</h3>
               <p>能力とスキルが身につきます!!</p>
             </div>
-            <p class="pointContentWrap-desc">幼児から小学生、中学生、高校生までの情報活用能力取得のためのカリキュラムを準備しています。多くのプログラミング教室は、ゲームを活用してプログラミングを組めることを目的としていますが、バレットキッズは、社会に出てすぐ役立つ能力・スキルの取得・育成を目的として、専用教材を学んでいきます。</p>
+            <p class="pointContentWrap-desc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">幼児から小学生、中学生、高校生までの情報活用能力取得のためのカリキュラムを準備しています。多くのプログラミング教室は、ゲームを活用してプログラミングを組めることを目的としていますが、バレットキッズは、社会に出てすぐ役立つ能力・スキルの取得・育成を目的として、専用教材を学んでいきます。</p>
           </div>
-          <div class="pointContent-point2">
+          <div class="pointContent-point2" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
             <figure class="pc">
               <img src="/images/sec5/img02.png" alt="">
             </figure>
@@ -461,7 +453,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </div>
       </div>
-      <div class="point">
+      <div class="point" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
         <div class="pointHeader"> 
           <div class="flex">
             <div class="item">
@@ -479,14 +471,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <div class="pointContent">
           <div class="pointContentWrap">
-            <div class="pointContentWrap-ttl">
+            <div class="pointContentWrap-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
               <p>パソコンスキルを学ぶことで!!</p>
               <h3>考える力を身につけます!!</h3>
             </div>
-            <p class="pointContentWrap-desc">パソコン操作だけを学ぶのではなく、プログラミング的思考、論理的思考力を身に付けることを目的とした教材を使用します。</p>
+            <p class="pointContentWrap-desc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">パソコン操作だけを学ぶのではなく、プログラミング的思考、論理的思考力を身に付けることを目的とした教材を使用します。</p>
           </div>
           <div class="pointContent-point3">
-            <div class="slide slide1">
+            <div class="slide slide1" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
               <div class="slide-ttl bg1">
                 <h3>幼児用</h3>
                 <p>オリジナル課題プリント</p>
@@ -517,7 +509,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="swiper-pagination swiper-paginationInfant"></div>
             </div>
-            <div class="slide slide2">
+            <div class="slide slide2" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
               <div class="slide-ttl bg2">
                 <h3>小学生用</h3>
                 <p>オリジナル課題プリント</p>
@@ -570,57 +562,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <img src="images/sec4/Group 2366.png" alt="top-left" class="top-left"/>
     </div>
    <div class="componentHeader">
-      <h2 class="component--hdng-ttl">お近くの教室で、<br>実際の授業を体験できます！</h2>
-      <div class="header--dot">
+      <h2 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">お近くの教室で、<br>実際の授業を体験できます！</h2>
+      <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
         <span class="header--dot__clr1"></span>
         <span class="header--dot__clr2"></span>
         <span class="header--dot__clr3"></span>
         <span class="header--dot__clr4"></span>
       </div>
     </div>
-    <p class="sec4_desc">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
+    <p class="sec4_desc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
     <div class="pic-container pc">
-    <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
-    <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
+      <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
+      <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
     </div>
-    <div class="red-button-container pc">
-    <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
-    <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
-      <a href="" class="btn_01">
+    <div class="red-button-container pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
+      <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
+      <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
+      <a href="#sec11" class="btn_01">
         <span>無料体験・お問い合わせはこちら</span>
       </a>
     </div>
-    <div class="red-button-container sp">
+    <div class="red-button-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
       <img src="images/sec4/kuma5.png" alt="upper-bear-logo" class="upper-bear-logo"/>
       <img src="images/sec4/kuma52.png" alt="upper-bear-hands" class="upper-bear-hands"/>
-      <a href="" class="btn_01">
+      <a href="#sec11" class="btn_01">
         <span>無料体験・お問い合わせはこちら</span>
       </a>
     </div>
-    <div class="bottom-container pc">
+    <div class="bottom-container pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
       <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
     </div>
-    <div class="bottom-container sp">
+    <div class="bottom-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
       <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
     </div>
   </div>
 </section>
 <section id="sec7" class="sec7">
   <div class="mar-style">
-    <div data-aos="fade-up" data-aos-anchor-placement="top-center">
+    <div>
       <div class="componentHeader">
-        <div class="header1">
-          <h1 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-center">子どもの可能性を引き出す
-          </h1>
+        <div class="header1" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+          <h1 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-center">子どもの可能性を引き出す</h1>
         </div>
-        <div class="pc">
+        <div class="pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
           <img src="/images/sec7/headerpc.png" alt="Ballet Kids' unique curriculum">
         </div>
-        <div class="sp">
+        <div class="sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
           <img src="/images/sec7/headersp.png" alt="Ballet Kids' unique curriculum">
         </div>
 
-        <div class="header--dot">
+        <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
           <span class="header--dot__clr1"></span>
           <span class="header--dot__clr2"></span>
           <span class="header--dot__clr3"></span>
@@ -629,7 +620,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="sect7--container">
         <div class="l-wrap">
-          <div class="wrapperContainer">
+          <div class="wrapperContainer" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
             <div class="wrapper">
               <div class="pic">
                 <img src="/images/sec7/card1.png" alt="幼児向けのオリジナル教材">
@@ -645,7 +636,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
             </div>
           </div>
-          <div class="wrapperContainer">
+          <div class="wrapperContainer" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
             <div class="wrapper">
               <div class="pic">
                 <img src="/images/sec7/card2.png" alt="多岐にわたるスキルが身につく授業内容">
@@ -659,7 +650,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
             </div>
           </div>
-          <div class="wrapperContainer">
+          <div class="wrapperContainer" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="800">
             <div class="wrapper">
               <div class="pic">
                 <img src="/images/sec7/card3.png" alt="お子さまの目的にあった商材をご提供">
@@ -676,7 +667,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
             </div>
           </div>
-          <div class="wrapperContainer">
+          <div class="wrapperContainer" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="900">
             <div class="wrapper">
               <div class="pic">
                 <img src="/images/sec7/card4.png" alt="幼児から高校まで一貫して通える">
@@ -702,52 +693,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <img src="images/sec4/Group 2366.png" alt="top-left" class="top-left"/>
     </div>
    <div class="componentHeader">
-      <h2 class="component--hdng-ttl">お近くの教室で、<br>実際の授業を体験できます！</h2>
-      <div class="header--dot">
+      <h2 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">お近くの教室で、<br>実際の授業を体験できます！</h2>
+      <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
         <span class="header--dot__clr1"></span>
         <span class="header--dot__clr2"></span>
         <span class="header--dot__clr3"></span>
         <span class="header--dot__clr4"></span>
       </div>
     </div>
-    <p class="sec4_desc">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
+    <p class="sec4_desc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">楽しく学べるプログラミング教室<br class="sp">バレッドキッズ<br>お子さまとご一緒に、<br class="sp">ぜひ無料体験へお越しください。</p>
     <div class="pic-container pc">
-    <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
-    <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
+      <img src="images/sec4/Group 2360.png" alt="top-left" class="top-left"/>
+      <img src="images/sec4/Group 2361.png" alt="top-right" class="top-right"/>
     </div>
-    <div class="red-button-container pc">
-    <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
-    <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
-      <a href="" class="btn_01">
+    <div class="red-button-container pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
+      <img src="images/sec4/kuma02.png" alt="bear-logo" class="bear-logo-hover"/>
+      <img src="images/sec4/kuma5.png" alt="bear-logo" class="bear-logo"/>
+      <a href="#sec11" class="btn_01">
         <span>無料体験・お問い合わせはこちら</span>
       </a>
     </div>
-    <div class="red-button-container sp">
+    <div class="red-button-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
       <img src="images/sec4/kuma5.png" alt="upper-bear-logo" class="upper-bear-logo"/>
       <img src="images/sec4/kuma52.png" alt="upper-bear-hands" class="upper-bear-hands"/>
-      <a href="" class="btn_01">
+      <a href="#sec11" class="btn_01">
         <span>無料体験・お問い合わせはこちら</span>
       </a>
     </div>
-    <div class="bottom-container pc">
+    <div class="bottom-container pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
       <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
     </div>
-    <div class="bottom-container sp">
+    <div class="bottom-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
       <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
     </div>
   </div>
 </section>
 <section id="sec9" class="sec9">
   <div class="mar-style">
-    <div data-aos="fade-up" data-aos-anchor-placement="top-center">
+    <div>
       <div class="componentHeader">
-        <div class="pc">
+        <div class="pc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
           <img src="/images/sec9/Hsec9.png" alt="Ballet Kids' unique curriculum">
         </div>
-        <div class="sp">
+        <div class="sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
           <img src="/images/sec9/Hsec9.png" alt="Ballet Kids' unique curriculum">
         </div>
-        <div class="header--dot">
+        <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
           <span class="header--dot__clr1"></span>
           <span class="header--dot__clr2"></span>
           <span class="header--dot__clr3"></span>
@@ -755,7 +746,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
 
-      <div class="sec9--container">
+      <div class="sec9--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
           <div class="trial--title">
             <p class="trial--text">
               体験参加者
@@ -774,7 +765,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="text paragraph2 prgrph">自分がつなげたブロックで、キャラクターが動いたり、話したりするのが、<span class="text red">面白かったです！<br></span>キーボードも、もっと上手になって、<span class="text red">たくさん打てるようになりたいな</span>と思いました。</p>
       </div>
 
-      <div class="sec9--container">
+      <div class="sec9--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
         <div class="trial--title">
           <p class="trial--text">
             受講生
@@ -797,17 +788,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 <section id="sec10" class="sec10">
   <div class="mar-style">
-    <div data-aos="fade-up" data-aos-anchor-placement="top-center">
+    <div>
       <div class="componentHeader">
-        <h2 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-center">よくある質問</h2>
-        <div class="header--dot">
+        <h2 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">よくある質問</h2>
+        <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
           <span class="header--dot__clr1"></span>
           <span class="header--dot__clr2"></span>
           <span class="header--dot__clr3"></span>
           <span class="header--dot__clr4"></span>
         </div>
       </div>
-      <div class="sec10--container">
+      <div class="sec10--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
         <a href="" class="sec10--drop-button">
           <div>
             <span>Ｑ.</span>
@@ -823,7 +814,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
         </div>
       </div>
-      <div class="sec10--container">
+      <div class="sec10--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
         <a href="" class="sec10--drop-button">
           <div>
             <span>Ｑ.</span>
@@ -839,7 +830,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
         </div>
       </div>
-      <div class="sec10--container">
+      <div class="sec10--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
         <a href="" class="sec10--drop-button">
           <div>
             <span>Ｑ.</span>
@@ -855,7 +846,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
         </div>
       </div>
-      <div class="sec10--container">
+      <div class="sec10--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="800">
         <a href="" class="sec10--drop-button">
           <div>
             <span>Ｑ.</span>
@@ -871,7 +862,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
         </div>
       </div>
-      <div class="sec10--container">
+      <div class="sec10--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="900">
         <a href="" class="sec10--drop-button">
           <div>
             <span>Ｑ.</span>
@@ -887,7 +878,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
         </div>
       </div>
-      <div class="sec10--container">
+      <div class="sec10--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="1000">
         <a href="" class="sec10--drop-button">
           <div>
             <span>Ｑ.</span>
@@ -904,7 +895,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </p>
         </div>
       </div>
-      <div class="sec10--container">
+      <div class="sec10--container" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="1100">
         <a href="" class="sec10--drop-button">
           <div>
             <span>Ｑ.</span>
@@ -926,16 +917,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="sec11" class="sec11">
   <div class="mar-style">
     <div class="componentHeader">
-      <h2 class="component--hdng-ttl" >お問い合わせ</h2>
-      <div class="header--dot">
+      <h2 class="component--hdng-ttl" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="300">お問い合わせ</h2>
+      <div class="header--dot" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="400">
         <span class="header--dot__clr1"></span>
         <span class="header--dot__clr2"></span>
         <span class="header--dot__clr3"></span>
         <span class="header--dot__clr4"></span>
       </div>
     </div>
-    <p class="sec11_desc">初めてのプログラミングでも安心！<br>まずは、お気軽に無料体験にご参加ください！</p>
-    <div class="sec11_content">
+    <p class="sec11_desc" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">初めてのプログラミングでも安心！<br>まずは、お気軽に無料体験にご参加ください！</p>
+    <div class="sec11_content" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
       <div class="sec11_content-head">
         <h3>無料体験・お問い合わせを希望する教室名を選択ください。</h3>
         <p>教室を選択後、バレッドキッズ公式ホームページの<span>教室詳細ページに遷移</span>します。<br>お問い合わせは各教室へご連絡ください。<br>無料体験は<span>教室詳細ページ下部のカレンダーよりお申し込み</span>ください。</p>
@@ -1864,6 +1855,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </section>
 </div>
+<a href="#sec1" class="goUp" id="goUp">
+  <svg id="_000_top_bottom" data-name="000_top_bottom" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g id="Rectangle_71528" data-name="Rectangle 71528" fill="none" stroke="#007abc" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+      <rect width="48" height="48" rx="3" stroke="none"/>
+      <rect x="1.5" y="1.5" width="45" height="45" rx="1.5" fill="none"/>
+    </g>
+    <path id="Path_6283" data-name="Path 6283" d="M-9677.269-8696.342l9.084,9.084-9.084,9.084" transform="translate(8711.258 -9649.727) rotate(-90)" fill="none" stroke="#007abc" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </svg>
+</a>
 <!--/contents-->
 </main>
 <footer class="bg_ft">
@@ -1929,6 +1929,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     var selectedPrefecture = $(this).val();
     $('.prefectureContents .prefectureItemWrap').hide();
     $('[data-target="' + selectedPrefecture + '"]').show();
+  });
+
+  $(document).ready(function() {
+    $(window).scroll(function() {
+        var sec2 = $('#sec2');
+
+        if ($(window).scrollTop() > sec2.offset().top) {
+          $('#goUp').addClass('isScroll')
+        }else{
+          $('#goUp').removeClass('isScroll')
+        }
+    });
   });
 </script>
 

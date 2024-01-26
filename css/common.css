@@ -1905,3 +1905,21 @@ div.explain-txt span {
   cursor: pointer;
 }
 
+
+.goUp{
+  display: flex;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  transition: 0.3s ease-in-out;
+  border-radius: 3px;
+  overflow: hidden;
+  opacity: 0;
+  z-index: 40;
+}
+.goUp.isScroll{
+  opacity: 1;
+}
+.goUp:hover{
+  background-color: #fff;
+}
