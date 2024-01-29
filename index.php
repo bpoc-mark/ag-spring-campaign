@@ -267,7 +267,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
     </div>
     <div class="bottom-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
-      <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
+      <img src="images/sec4/cta_campaign_sp.png" alt="bottom-message" class="bottom-message"/>
     </div>
   </div>
 </section>
@@ -507,7 +507,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </div>
                 </div>
               </div>
-              <div class="swiper-pagination swiper-paginationInfant"></div>
+              <div class="swiperPaginate">
+                <div class="swiper-pagination swiper-paginationInfant"></div>
+                <button class="isPause"></button>
+              </div>
             </div>
             <div class="slide slide2" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="600">
               <div class="slide-ttl bg2">
@@ -548,7 +551,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </div>
                 </div>
               </div>
-              <div class="swiper-pagination swiper-paginationKids"></div>
+              <div class="swiperPaginate">
+                <div class="swiper-pagination swiper-paginationKids"></div>
+                <button class="isPause"></button>
+              </div>
             </div>
           </div>
         </div>
@@ -593,7 +599,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
     </div>
     <div class="bottom-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
-      <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
+      <img src="images/sec4/cta_campaign_sp.png" alt="bottom-message" class="bottom-message"/>
     </div>
   </div>
 </section>
@@ -724,7 +730,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <img src="images/sec4/009_cta_campaign.png" alt="bottom-message" class="bottom-message"/>
     </div>
     <div class="bottom-container sp" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="700">
-      <img src="images/sec4/Group 2400.png" alt="bottom-message" class="bottom-message"/>
+      <img src="images/sec4/cta_campaign_sp.png" alt="bottom-message" class="bottom-message"/>
     </div>
   </div>
 </section>
@@ -806,7 +812,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             どういうお子さんが学んでいるの？
             </p>
           </div>
-          <img src="/images/common/arrow_red.svg" alt="">
+          <img src="/images/common/arrow_grey.svg" alt="">
         </a>
         <div class="sec10--drop-down">
           <p>
@@ -822,7 +828,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             未経験で家にもパソコンがないけど大丈夫なの？
             </p>
           </div>
-          <img src="/images/common/arrow_red.svg" alt="">
+          <img src="/images/common/arrow_grey.svg" alt="">
         </a>
         <div class="sec10--drop-down">
           <p>
@@ -838,7 +844,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             他のプログラミング教室何が違うの？
             </p>
           </div>
-          <img src="/images/common/arrow_red.svg" alt="">
+          <img src="/images/common/arrow_grey.svg" alt="">
         </a>
         <div class="sec10--drop-down">
           <p>
@@ -854,7 +860,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             無料体験は何ができるの？費用は、かからないの？
             </p>
           </div>
-          <img src="/images/common/arrow_red.svg" alt="">
+          <img src="/images/common/arrow_grey.svg" alt="">
         </a>
         <div class="sec10--drop-down">
           <p>
@@ -870,7 +876,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             入会するタイミングは？いつでもできるの？
             </p>
           </div>
-          <img src="/images/common/arrow_red.svg" alt="">
+          <img src="/images/common/arrow_grey.svg" alt="">
         </a>
         <div class="sec10--drop-down">
           <p>
@@ -886,7 +892,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             １回の授業は何分？月何回通うの？
             </p>
           </div>
-          <img src="/images/common/arrow_red.svg" alt="">
+          <img src="/images/common/arrow_grey.svg" alt="">
         </a>
         <div class="sec10--drop-down">
           <p>
@@ -903,7 +909,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             人気のコースを教えてください。
             </p>
           </div>
-          <img src="/images/common/arrow_red.svg" alt="">
+          <img src="/images/common/arrow_grey.svg" alt="">
         </a>
         <div class="sec10--drop-down">
           <p>
@@ -1885,13 +1891,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     once: true,
   });
 
-  var swiper = new Swiper(".infantSwiper", {
+  var slide1 = new Swiper(".infantSwiper", {
     slidesPerView: 1.2,
     spaceBetween: 14,
     centeredSlides: true,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 3000,
     },  
     breakpoints: {
       // when window width is >= 640px
@@ -1905,13 +1911,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     },
   });
 
-  var swiper = new Swiper(".kidsSwiper", {
+  var slide2 = new Swiper(".kidsSwiper", {
     slidesPerView: 1.4,
     spaceBetween: 27,
     centeredSlides: true,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 3000,
     },  
     breakpoints: {
       // when window width is >= 640px
@@ -1942,6 +1948,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         }
     });
   });
+
+  $('.slide1 .swiperPaginate button').click(function(){
+    $(this).toggleClass('isPause')
+    if($(this).hasClass('isPause')){
+      slide1.autoplay.resume();
+    }else{
+      slide1.autoplay.pause();
+    }
+  })
+
+  $('.slide2 .swiperPaginate button').click(function(){
+    $(this).toggleClass('isPause')
+    if($(this).hasClass('isPause')){
+      slide2.autoplay.resume();
+    }else{
+      slide2.autoplay.pause();
+    }
+  })
 </script>
 
 </body>

@@ -7,7 +7,7 @@
 /* SECTION 1  */
 .sec1{
   width: 100%;
-  background: url('../images/sec1/bg_img.jpg') no-repeat center center;
+  background: url('../images/sec1/bg_img.png') no-repeat center center;
   background-size: cover;
   position: relative;
 }
@@ -121,6 +121,7 @@
 }
 #sec2 .section2Container {
   display: flex;
+  align-items: center;
   justify-content: center;
   padding: 72px 0 98px 0;
 }
@@ -128,9 +129,6 @@
   max-width: 400px;
   max-height: 400px;
   margin: 0 80px 0 0;
-}
-#sec2 .sect2DescContainer {
-  padding-top: 39px;
 }
 #sec2 .sect2-dot {
   margin-top: 19px;
@@ -166,7 +164,7 @@
     padding: 65px 0 64px 0;
   }
   #sec2 .childrenContainer {
-    margin: 0;
+    margin: 0px 0 25px;
     max-width: 279px;
   }
   #sec2 .sect2-title {
@@ -326,7 +324,7 @@
 
 .sec4 .componentHeader h2{
   color: #fff;
-  line-height: 48px;
+  line-height: 58px;
   z-index: 1;
 }
 
@@ -462,6 +460,7 @@
 @media screen and (max-width: 960px) {
   .sec4 {
     padding: 60px 0 90px;
+    background-size: 1000px;
   }
   .sec4 .red-button-container.pc {
     display: none;
@@ -537,7 +536,7 @@
   z-index: 6;
 }
 .sec5 .headerTtl h3 .sp{
-  width: 230px;
+  width: 270px;
   position: relative;
   z-index: 6;
   margin: 0 auto;
@@ -846,8 +845,53 @@
 .sec5 .slide img{
   width: 100%;
 }
-.sec5 .slide .swiper-pagination{
+.sec5 .slide .swiperPaginate{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: absolute;
   bottom: -42px;
+  left: 0;
+}
+.sec5 .slide .swiperPaginate button{
+  width: 15px;
+  height: 15px;
+  position: relative;
+  top: 1px;
+  padding: 0;
+  margin: 0 0 0 10px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s ease-in-out;
+}
+.sec5 .slide .swiperPaginate button:not(.isPause)::before{
+  content: '▶';
+  color: #2775BD;
+  transition: 0.3s ease-in-out;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.sec5 .slide .swiperPaginate button:is(.isPause):after{
+  content: '▐▐';
+  font-size: 9px;
+  color: #2775BD;
+  position: absolute;
+  top: 50%;
+  left: 42%;
+  transform: translate(-50%, -50%);
+  transition: 0.3s ease-in-out;
+}
+.sec5 .slide .swiper-pagination{
+  width: fit-content;
+  position: relative;
+  bottom: unset;
 }
 .sec5 .slide .swiper-pagination span{
   width: 12px;
@@ -881,7 +925,7 @@
     border-radius: 8px;
   }
   .sec5 .point:not(:last-child){
-    margin-bottom: 150px;
+    margin-bottom: 64px;
   }
   .sec5 .pointHeader{
     padding: 8px 12px 9px;
@@ -970,7 +1014,7 @@
   .sec5 .slide figure{
     border-radius: 2px;
   }
-  .sec5 .slide .swiper-pagination {
+  .sec5 .slide .swiperPaginate {
     bottom: -33px;
   }
   .sec5 .slide.slide2 {
@@ -987,7 +1031,7 @@
 
 /* SECTION 7 */
 .sec7 {
-  background-image: url("../images/sec7/bg.png");
+  background-image: url("../images/sec1/bg_img.png");
   background-size: cover;
   background-position: center;
   padding: 120px 0 59px;
@@ -1004,8 +1048,6 @@
 
 .sec7 .componentHeader h1 {
   color: white;
-  padding: 3px;
-  padding-bottom: 5px;
   font-size: 22px;
   height: 40px;
   background-color: #716964;
@@ -1075,10 +1117,10 @@
 }
 
 .sec7 .sect7--container .wrapper .detail-box .tags .text {
-  font-size: 14;
+  font-size: 14px;
   line-height: 25px;
   color: white;
-  border-radius: 16px;
+  border-radius: 50px;
   text-align: center;
   padding: 6px 12px;
 }
@@ -1093,10 +1135,10 @@
   background-color: #85b83a;
 }
 .sec7 .sect7--container .wrapper .detail-box .blue {
-  background-color: #409ad6;
+  background-color: #409AD6;
 }
 .sec7 .sect7--container .wrapper .detail-box .red {
-  background-color: #409ad6;
+  background-color: #E85922;
 }
 
 .sec7 .sect7--container .wrapper .detail-box .header-title {
@@ -1156,16 +1198,17 @@
   }
 
   .sec7 .componentHeader h1 {
-    padding-top: 4px;
+    padding-top: 1px;
     font-size: 16px;
     width: 327px;
+    height: 32px;
   }
 }
 /* SECTION 7 */
 
 /* SECTION 9 */
 .sec9 {
-  background-image: url("../images/sec7/bg.png");
+  background-image: url("../images/sec1/bg_img.png");
   background-size: cover;
   background-position: center;
   padding: 70px 0 45px;
@@ -1243,7 +1286,7 @@
 
 .sec9 .sec9--container .title {
   font-size: 26px;
-  color: red;
+  color: #E85922;
   line-height: 26px;
   padding-bottom: 24px;
 }
@@ -1274,7 +1317,7 @@
   padding-top: 24px;
 }
 .sec9 .sec9--container .paragraph2 .red {
-  color: red;
+  color: #E85922;
 }
 
 .sec9 .sec9--container .secnd {
@@ -1417,7 +1460,7 @@
   justify-content: space-between;
 }
 .sec10--container a img {
-  width: 20px;
+  width: 28px;
 }
 .sec10--container a p {
   font-size: 20px;
@@ -1615,6 +1658,7 @@
 .sec11 .sec11_content .sec11_content-bodyWrap .prefecture select{
   font-weight: 700;
   font-family: 'Zen Maru Gothic', sans-serif;
+  color: #37393C;
   font-size: 16px;
   padding: 0 20px;
   width: 100%;
@@ -1692,6 +1736,7 @@
 @media screen and (max-width: 960px) {
   .sec11{
     padding: 50px 0 20px;
+    background-size: 1000px;
   }
   .sec11 .sec11_desc {
     font-size: 16px;
