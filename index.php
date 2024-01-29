@@ -352,104 +352,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <figure class="pc">
               <img src="/images/sec5/img02.png" alt="">
             </figure>
-            <ul class="point2-skills sp">
-              <li class="point2-skills-item">
-                <div class="box1 clr1">
-                  <h3>幼児</h3>
-                  <ul class="box1Wrap">
-                    <li>タッチタイピング<br>パソコンの基本操作</li>
-                    <li>ワード/パワーポイントの基本操作</li>
-                    <li>プログラミング的思考</li>
-                  </ul>
-                </div>
-                <div class="box2 clr1">
-                  <figure>
-                    <img src="/images/sec5/skills_1.png" alt="">
-                  </figure>
-                  <div class="content">
-                    <h3>生徒の声</h3>
-                    <ul>
-                      <li>楽しそう！</li>
-                      <li>やってみたい！</li>
-                      <li>さわってみたい！</li>
-                    </ul>
-                  </div>
-                </div>
-              </li> 
-              <li class="point2-skills-item">
-                <div class="box1 clr2">
-                  <h3>小学生</h3>
-                  <ul class="box1Wrap">
-                    <li>ビジュアルプログラミングの学習</li>
-                    <li>エクセル 表計算ソフト の使い方</li>
-                    <li>パワーポイントでプレゼンテーション練習</li>
-                    <li>ワードを使った文書作成/ICT ナレッジ</li>
-                  </ul>
-                </div>
-                <div class="box2 clr2">
-                  <figure>
-                    <img src="/images/sec5/skills_2.png" alt="">
-                  </figure>
-                  <div class="content">
-                    <h3>生徒の声</h3>
-                    <ul>
-                      <li>タイピングはクラスで一番！</li>
-                      <li>思った通りにPCを使えるよ。</li>
-                      <li>プログラミングも楽しい！</li>
-                    </ul>
-                  </div>
-                </div>
-              </li>  
-              <li class="point2-skills-item">
-                <div class="box1 clr3">
-                  <h3>中学生</h3>
-                  <ul class="box1Wrap">
-                    <li>テキストプログラミングの学習</li>
-                    <li>表計算ソフトを活用した統計スキル</li>
-                    <li>プレゼンテーションスキル向上</li>
-                    <li>資格取得・コンテスト応募</li>
-                  </ul>
-                </div>
-                <div class="box2 clr3">
-                  <figure>
-                    <img src="/images/sec5/skills_3.png" alt="">
-                  </figure>
-                  <div class="content">
-                    <h3>生徒の声</h3>
-                    <ul>
-                      <li>スキルは既に高校レベル？</li>
-                      <li>フローチャートもバッチリ！</li>
-                      <li>エクセルで統計も得意に◎</li>
-                    </ul>
-                  </div>
-                </div>
-              </li>  
-              <li class="point2-skills-item">
-                <div class="box1 clr4">
-                  <h3>高校生</h3>
-                  <ul class="box1Wrap">
-                    <li>生成AI の活用</li>
-                    <li>大学入試/ MOS</li>
-                  </ul>
-                  <figure class="point2-skills-item-box4">
-                    <img src="/images/sec5/skills_4_1.png" alt="">
-                  </figure>
-                </div>
-                <div class="box2 clr4">
-                  <figure>
-                    <img src="/images/sec5/skills_4.png" alt="">
-                  </figure>
-                  <div class="content">
-                    <h3>生徒の声</h3>
-                    <ul>
-                      <li>社会で役に立つ</li>
-                      <li>スキルは一通り身に</li>
-                      <li>ついたかな！</li>
-                    </ul>
-                  </div>
-                </div>
-              </li>  
-            </ul>
+            <div class="point-skills sp">
+              <figure>
+                <img src="/images/sec5/poin02-01.png" alt="">
+              </figure>
+              <figure>
+                <img src="/images/sec5/poin02-02.png" alt="">
+              </figure>
+              <figure>
+                <img src="/images/sec5/poin02-03.png" alt="">
+              </figure>
+              <figure>
+                <img src="/images/sec5/poin02-04.png" alt="">
+              </figure>
+            </div>
           </div>
         </div>
       </div>

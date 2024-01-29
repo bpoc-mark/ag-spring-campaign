@@ -142,6 +142,7 @@ $(document).ready(function() {
     // Add a click event listener to the request link
     $(".close-btn__center a").on("click", function() {
         $hamMenu.removeClass("isActive");
+        $menuBtn.removeClass('isActive')
     });
   });
 
@@ -156,54 +157,3 @@ $(document).ready(function() {
     });
   });
 
-
-
-// SWIPER
-document.addEventListener("DOMContentLoaded", function () {
-    // Your Swiper initialization code here
-    var swiperOptions = {
-        loop: true,
-        freeMode: true,
-        spaceBetween: 0,
-        slidesPerView: 7,
-        autoplay: {
-          delay: 0, // Adjust the delay as needed
-          disableOnInteraction: false, // Keep it false to prevent manual swipe
-        },
-        speed: 5000,
-        touchEventsTarget: "container", // Disable touch events on swiper container
-        allowTouchMove: false, // Disable all touch interactions
-      };
-      
-    var swiper = new Swiper(".swiper-container", swiperOptions);
- });
-
-  
-
-// Form TAB
-
-$('.classroom label').matchHeight();
-
-$(".contactWrapper-tabs li").click(function(){
-    $(this).children().addClass('active').parents('ul.contactWrapper-tabs').find('li').not($(this)).children().removeClass('active');
-    var currentTabIndex = $(this).index();
-    $('.tabsContent-box:eq('+ currentTabIndex +')').addClass('active').parents('.contactWrapper-tabsContent').find('.tabsContent-box').not($('.tabsContent-box:eq('+ currentTabIndex +')')).removeClass('active');
-});
-
-$(document).ready(function(){
-    $('.contactSect_select_item.classroom').hide();
-    
-    $('.prefectureSelect').change(function(){
-        // Get the selected prefecture value
-        var selectedPrefecture = $(this).val();
-        
-        // Hide all classroom elements
-        $('.contactSect_select_item.classroom').hide();
-        
-        // Show the classroom elements with data-target attribute matching the selected prefecture
-        $('.contactSect_select_item.classroom[data-target="' + selectedPrefecture + '"]').show();
-    })
-
-    // Trigger the change event on page load to show the correct classroom elements
-    $('.prefectureSelect').trigger('change');
-})

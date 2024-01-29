@@ -7,8 +7,9 @@
 /* SECTION 1  */
 .sec1{
   width: 100%;
-  background: url('../images/sec1/bg_img.png') no-repeat center center;
-  background-size: cover;
+  background-image: url(../images/sec1/bg_img.png);
+  background-size: contain;
+  background-position: center;
   position: relative;
 }
 .sec1 .mar-style{
@@ -60,7 +61,7 @@
 @media screen and (max-width: 960px) {
   .sec1{
     height: 100%;
-    padding: 80px 0 20px;
+    padding: 80px 0 100px;
   }
   .sec1 .mar-style{
     margin: 0 auto;
@@ -77,21 +78,31 @@
     margin-bottom: 10px;
   }
   .sec1 .content .btnWrap{
-    max-width: calc(100% + 48px);
-    width: calc(100% + 48px);
+    max-width: 100%;
+    width: 100%;
     padding: 11px 24px 19px;
-    margin: 20px auto 0 -24px;
     background-color: #fff;
     border-top-right-radius: 8px;
     border-top-left-radius: 8px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 40;
   }
   .sec1 .content a{
-    font-size: 19px;
+    font-size: 18px;
     letter-spacing: 0.76px;
+    padding: 13px 0;
   }
   .sec1 .border-bottom{
     width: 1280px;
     height: 20px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .sec1 .content a{
+    font-size: 16px;
   }
 }
 /* END OF SECTION 1  */
@@ -650,152 +661,6 @@
 .sec5 .pointContent-point2{
   margin-top: 50px;
 }
-.sec5 .point2-skills .box1{
-  border-radius: 6px;
-  overflow: hidden;
-}
-.sec5 .point2-skills .point2-skills-item{
-  position: relative;
-}
-.sec5 .point2-skills .point2-skills-item:not(:last-child){
-  padding-bottom: 55px;
-  margin-bottom: 30px;
-  position: relative;
-}
-.sec5 .point2-skills .point2-skills-item:not(:last-child)::before{
-  content: '';
-  display: block;
-  width: 48px;
-  height: 24px;
-  background: url(../images/sec5/arrow_down.png) no-repeat center center;
-  background-size: 48px;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  transform: translate(-50%, 0);
-}
-.sec5 .point2-skills .point2-skills-item .box1.clr1 h3{
-  background-color: #EA6182;
-}
-.sec5 .point2-skills .point2-skills-item .box2.clr1 h3{
-  color: #EA6182;
-}
-.sec5 .point2-skills .point2-skills-item .box1.clr2 h3{
-  background-color: #F08300;
-}
-.sec5 .point2-skills .point2-skills-item .box2.clr2 h3{
-  color: #F08300;
-}
-.sec5 .point2-skills .point2-skills-item .box1.clr3 h3{
-  background-color: #85B839;
-}
-.sec5 .point2-skills .point2-skills-item .box2.clr3 h3{
-  color: #85B839;
-}
-.sec5 .point2-skills .point2-skills-item .box1.clr4 h3{
-  background-color: #409AD6;
-}
-.sec5 .point2-skills .point2-skills-item .box2.clr4 h3{
-  color: #409AD6;
-}
-.sec5 .point2-skills .point2-skills-item .clr1 .box1Wrap{
-  background-color: #FFE0E8;
-}
-.sec5 .point2-skills .point2-skills-item .clr2 .box1Wrap{
-  background-color: #FFCA89;
-}
-.sec5 .point2-skills .point2-skills-item .clr3 .box1Wrap{
-  background-color: #D7EBB8;
-}
-.sec5 .point2-skills .point2-skills-item .clr4 .box1Wrap{
-  background-color: #D8EEFF;
-}
-.sec5 .point2-skills .point2-skills-item .clr1 .box1Wrap li::before{
-  background-color: #EA6182;
-}
-.sec5 .point2-skills .point2-skills-item .clr2 .box1Wrap li::before{
-  background-color: #F08300;
-}
-.sec5 .point2-skills .point2-skills-item .clr3 .box1Wrap li::before{
-  background-color: #85B839;
-}
-.sec5 .point2-skills .point2-skills-item .clr4 .box1Wrap li::before{
-  background-color: #85B839;
-}
-.sec5 .point2-skills .box1{
-  border-radius: 6px;
-  overflow: hidden;
-}
-.sec5 .point2-skills .box1 h3{
-  text-align: center;
-  color: #fff;
-  font-size: 22px;
-  letter-spacing: 0.72px;
-  padding-bottom: 2px;
-}
-.sec5 .point2-skills .box1 ul{
-  padding: 15px 12px;
-}
-.sec5 .point2-skills .box1 ul li{
-  font-size: 15px;
-  line-height: 22px;
-  position: relative;
-  padding-left: 14px;
-}
-.sec5 .point2-skills .box1 ul li:not(:last-child){
-  margin-bottom: 10px;
-}
-.sec5 .point2-skills .box1 ul li::before{
-  content: "";
-  display: block;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  position: absolute;
-  top: 7px;
-  left: 0;
-}
-
-.sec5 .point2-skills .box2{
-  background-color: #FFEFD9;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  margin-top: 13px;
-  border-radius: 6px;
-  overflow: hidden;
-  padding: 6px 12px 10px;
-}
-.point2-skills .box2 figure{
-  width: 80px;
-}
-.point2-skills .box2 .content{
-  width: calc(100% - 90px);
-  
-}
-.point2-skills .box2 .content h3{
-  text-align: center;
-  font-size: 17px;
-}
-.point2-skills .box2 .content ul li{
-  font-size: 14px;
-  line-height: 22px;
-  font-family: huifontp;
-  text-align: center;
-  font-weight: 400;
-}
-.point2-skills .box2 .content ul li:not(:last-child){
-  border-bottom: 1px solid #D9D9D9;
-}
-
-.sec5 .point2-skills .point2-skills-item-box4{
-  width: 136px;
-  position: absolute;
-  top: 44px;
-  right: 10px;
-}
-
 
 .sec5 .pointContent:last-child{
   padding: 60px 100px 100px;
@@ -899,6 +764,10 @@
 }
 .sec5 .slide .swiper-pagination span.swiper-pagination-bullet-active{
   background-color: #2775BD;
+}
+
+.sec5 .point-skills figure:not(:last-child){
+  margin-bottom: 25px;
 }
 
 @media screen and (max-width: 960px) {
@@ -1021,18 +890,12 @@
     margin-top: 100px;
   }
 }
-@media screen and (max-width: 360px) {
-  .sec5 .point2-skills .point2-skills-item-box4{
-    width: 85px;
-    top: 53px;
-  }
-}
 /* END OF SECTION 5  */
 
 /* SECTION 7 */
 .sec7 {
   background-image: url("../images/sec1/bg_img.png");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   padding: 120px 0 59px;
 }
@@ -1208,8 +1071,8 @@
 
 /* SECTION 9 */
 .sec9 {
-  background-image: url("../images/sec1/bg_img.png");
-  background-size: cover;
+  background-image: url(../images/sec1/bg_img.png);
+  background-size: contain;
   background-position: center;
   padding: 70px 0 45px;
 }
@@ -1618,7 +1481,7 @@
   background-color: #E85922;
   border-radius: 4px;
   color: #fff;
-  padding: 2px 5px 3px;
+  padding: 1px 5px 2px;
   margin: 0 5px;
 }
 .sec11 .sec11_content .sec11_content-body {
@@ -1758,6 +1621,7 @@
   }
   .sec11 .sec11_content .sec11_content-head p span {
     font-size: 14px;
+    line-height: 28px;
   }
   .sec11 .sec11_content .sec11_content-bodyWrap {
     max-width: 100%;

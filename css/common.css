@@ -1923,3 +1923,9 @@ div.explain-txt span {
 .goUp:hover{
   background-color: #fff;
 }
+
+@media screen and (max-width: 960px) {
+  .goUp{
+    display: none;
+  }
+}
