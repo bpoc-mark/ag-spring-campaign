@@ -1230,6 +1230,7 @@
   .sec9 .sec9--container .title {
     font-size: 18px;
     padding-bottom: 24px;
+    padding-top: 6px;
   }
 
   .sec9 .sec9--container .paragraph {
