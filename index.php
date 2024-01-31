@@ -157,6 +157,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <div class="btnWrap" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="800">
         <a href="#sec11" class="btn_01">無料体験・お問い合わせはこちら</a>
+        <div class="sp">
+          <a href="#sec1">
+            <svg id="_000_top_bottom" data-name="000_top_bottom" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+              <g id="Rectangle_71528" data-name="Rectangle 71528" fill="none" stroke="#007abc" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                <rect width="48" height="48" rx="3" stroke="none"/>
+                <rect x="1.5" y="1.5" width="45" height="45" rx="1.5" fill="none"/>
+              </g>
+              <path id="Path_6283" data-name="Path 6283" d="M-9677.269-8696.342l9.084,9.084-9.084,9.084" transform="translate(8711.258 -9649.727) rotate(-90)" fill="none" stroke="#007abc" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </svg>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -1147,7 +1158,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                   </li>
                   <li>
-                    <a href="https://kids.valed.jp/location/kanto/tokyo/minami-tsukushino/" target="_blank">
+                    <a href="https://kids.valed.jp/location/kanto/tokyo/machida-ekimae/" target="_blank">
                       <h6>町田駅前 教室</h6>
                       <p>町田市原町田5-5-2　キャピタルオシダ401</p>
                     </a>
@@ -1294,12 +1305,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="https://kids.valed.jp/location/tokai/gifu/sumiyoshi/" target="_blank">
                       <h6>住吉 教室</h6>
                       <p>多治見市住吉町7-29-1　ファインビル住吉Ⅲ　201号室</p>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://kids.valed.jp/location/tokai/gifu/izumi-nishi/" target="_blank">
-                      <h6>泉西 教室</h6>
-                      <p>土岐市泉大沼町3-3</p>
                     </a>
                   </li>
                   <li>
@@ -1656,20 +1661,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </li>
                 </ul>
               </div>
-              <div class="prefectureItemWrap" data-target="鳥取県">
-                <ul>
-                  <li>
-                    <a href="https://kids.valed.jp/location/chugoku/tottori/kurayoshi/" target="_blank">
-                      <h6>ゆっくりやさしくパソコン教室倉吉 教室</h6>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://kids.valed.jp/location/chugoku/tottori/tottori-minami/" target="_blank">
-                      <h6>ゆっくりやさしくパソコン教室鳥取駅南 教室</h6>
-                    </a>
-                  </li>
-                </ul>
-              </div>
               <div class="prefectureItemWrap" data-target="島根県">
                 <ul>
                   <li>
@@ -1744,21 +1735,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                   </li>
                   <li>
-                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/oac-okinawa/" target="_blank">
-                      <h6>ＯＡＣ沖縄 教室</h6>
-                      <p>沖縄市仲宗根町8-11</p>
-                    </a>
-                  </li>
-                  <li>
                     <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/oac-nago/" target="_blank">
                       <h6>ＯＡＣ名護 教室</h6>
                       <p>名護市宇茂佐915-11</p>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://kids.valed.jp/location/kyushuokinawa/okinawa/oac-naha/" target="_blank">
-                      <h6>ＯＡＣ那覇 教室</h6>
-                      <p>那覇市泊2-1-8</p>
                     </a>
                   </li>
                   <li>

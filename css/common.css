@@ -1916,12 +1916,13 @@ div.explain-txt span {
   overflow: hidden;
   opacity: 0;
   z-index: 40;
+  background-color: #fff;
 }
 .goUp.isScroll{
   opacity: 1;
 }
 .goUp:hover{
-  background-color: #fff;
+  opacity: .5;
 }
 
 @media screen and (max-width: 960px) {

@@ -80,7 +80,7 @@
   .sec1 .content .btnWrap{
     max-width: 100%;
     width: 100%;
-    padding: 11px 24px 19px;
+    padding: 11px 15px 19px;
     background-color: #fff;
     border-top-right-radius: 8px;
     border-top-left-radius: 8px;
@@ -88,11 +88,38 @@
     bottom: 0;
     left: 0;
     z-index: 40;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
   .sec1 .content a{
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 0.76px;
-    padding: 13px 0;
+    padding: 9px 0;
+    width: calc(100% - 56px);
+    box-shadow: 0px 3px 0px #BE4617;
+  }
+  .sec1 .content a:hover{
+    transform: translate(0, 3px);
+    box-shadow: none;
+  }
+  .sec1 .btnWrap .sp{
+    width: 40px;
+    height: 40px;
+  }
+  .sec1 .btnWrap .sp a{
+    width: inherit;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    border-radius: 4px;
+    box-shadow: 0px 1px 0px #275788;
+    transition: 0.3s ease-in-out;
+  }
+  .sec1 .btnWrap .sp a:hover{
+    transform: translate(0, 2px);
+    box-shadow: none;
   }
   .sec1 .border-bottom{
     width: 1280px;
@@ -100,11 +127,6 @@
   }
 }
 
-@media screen and (max-width: 360px) {
-  .sec1 .content a{
-    font-size: 16px;
-  }
-}
 /* END OF SECTION 1  */
 
 
@@ -1158,7 +1180,6 @@
   line-height: 26px;
   padding-top: 24px;
   padding-bottom: 14px;
-  font-weight: 400;
 }
 .sec9 .sec9--container .paragraph2 {
   font-size: 16px;
