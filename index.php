@@ -1169,12 +1169,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       <p>町田市南つくし野4-10-10</p>
                     </a>
                   </li>
-                  <li>
-                    <a href="https://kids.valed.jp/location/kanto/tokyo/nakameguro/" target="_blank">
-                      <h6>中目黒 教室</h6>
-                      <p>目黒区東山1-1-5　東山ATビル602</p>
-                    </a>
-                  </li>
                 </ul>
               </div>
               <div class="prefectureItemWrap" data-target="神奈川県">
